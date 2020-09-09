@@ -13,24 +13,28 @@
 """
 
 from __future__ import print_function
+
+import errno
+import json
+import logging
+import multiprocessing
+import ntpath
+import os.path
+import re
+import shutil
+import string
+import time
+import traceback
 from datetime import datetime
+
+import pandas as pd
+from nltk.corpus import stopwords
 # from git import Repo, Git
 from nltk.stem import PorterStemmer
-from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize
-import time
-import os.path
-import re, string, ntpath, json, codecs
-import threading
-import shutil, errno
-import numpy as np
-import pandas as pd
+
 from LASCAD.config.languageConst import *
-import multiprocessing, traceback
-import logging, sys
 
-
-base_dir = '/home/hshahin/workspaces/seclassification/'
+base_dir = 'C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/'
 
 
 def load_config(config_file):
@@ -268,7 +272,7 @@ def file_preprocessing(input_file, output_file):
 
             # line_stemmed = ' '.join(singles)
             # print(line_stemmed, file=outFile)
-            print(line_witout_puncs, file=outFile)
+            print(line_witout_puncs.encode("utf-8"), file=outFile)
 
 # --------------------------------------------------------------------
 
@@ -466,7 +470,7 @@ def run_preprocessing_project(project):
 def run_preprocessing_categories(dataset):
     # For categories
     projects_list = get_projectsList(dataset)
-    projects_list = projects_list[['name', 'group', 'language']].as_matrix()
+    projects_list = projects_list[['name', 'group', 'language']].values
     logger.info('Start time: {}'.format(time.time()))
     logger.info('all projects: {}'.format(projects_list.shape))
 

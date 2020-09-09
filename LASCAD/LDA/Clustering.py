@@ -4,7 +4,7 @@ from time import time
 import sklearn
 from sklearn.decomposition import NMF, LatentDirichletAllocation
 from sklearn.cluster import AgglomerativeClustering
-from sklearn.cluster.bicluster import SpectralBiclustering
+from sklearn.cluster import SpectralBiclustering
 
 import pandas as pd
 import numpy as np

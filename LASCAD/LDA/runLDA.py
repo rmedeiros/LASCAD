@@ -68,7 +68,7 @@ def print_full(x):
 # -------------------------------------------------------------------
 
 def run_lda_sklearn(X, n_topics):
-    lda = LatentDirichletAllocation(n_topics=n_topics,
+    lda = LatentDirichletAllocation(n_components=n_topics,
                                 max_iter=1000,
                                 learning_method='online',
                                 learning_offset=50.,
@@ -376,9 +376,9 @@ def run_LDA_LACT_data(test='LACT41'):
 if __name__ == "__main__":
 
     # print('--- python args: ', sys.argv[1])
-    # run_LDA_showcases()
-    # run_LDA_showcases_example()
+    run_LDA_showcases()
+    #run_LDA_showcases_example()
     # run_LDA_showcases_parallel(int(sys.argv[1]))
     # run_LDA_LACT_data('LACT41')
     # run_LDA_largeDataset_parallel(int(sys.argv[1]))
-    run_LDA_largeDataset_readme()
+    #run_LDA_largeDataset_readme()

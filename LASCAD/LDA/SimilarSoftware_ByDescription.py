@@ -4,20 +4,17 @@
 
 """
 
-
-from LASCAD.LDA.Clustering import Clustering
-import pandas as pd
-import numpy as np
-from whoosh.index import create_in
-from whoosh.fields import Schema, ID, TEXT
-from whoosh.qparser import QueryParser
-from whoosh.analysis import StemmingAnalyzer
-from time import time
 import os
-import json
-from LASCAD.LDA.Clustering import base_dir
 import urllib.request
+
+import pandas as pd
 import requests
+from whoosh.analysis import StemmingAnalyzer
+from whoosh.fields import Schema, TEXT
+from whoosh.index import create_in
+from whoosh.qparser import QueryParser
+
+from LASCAD.LDA.Clustering import base_dir
 
 
 class SimilarSoftware_ByDescription:
