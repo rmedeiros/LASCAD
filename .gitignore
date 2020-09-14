@@ -91,6 +91,12 @@ showcases_out/*
 largeDataset_data/*
 largeDataset_out/*
 data/
+.idea
+LASCAD/showcases_data/*
+LASCAD/showcases_out/*
+LASCAD/largeDataset_data/*
+LASCAD/largeDataset_out/*
+LASCAD/data/
 LOC/out_LOC_notUsed_projects/
 LOC/out_LOC_used_projects/
 
@@ -109,3 +115,5 @@ similarApps_*
 
 .DS_Store
 .log
+
+/venv*

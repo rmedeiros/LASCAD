@@ -1,0 +1,2181 @@
+Start time: 1599641442.705301
+all projects: (103, 3)
+['atom' 'Text Editor' 'CoffeeScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\atom done in 3.339846928914388e-05min.
+['brackets' 'Text Editor' 'JavaScript']
+['vim.js' 'Text Editor' 'C']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\brackets done in 3.3402442932128905e-05min.
+['textmate' 'Text Editor' 'C++']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\vim.js done in 2.572139104207357e-05min.
+['sharelatex' 'Text Editor' 'CoffeeScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\textmate done in 7.538795471191406e-05min.
+['LightTable' 'Text Editor' 'Clojure']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\lighttable done in 3.331502278645833e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sharelatex done in 0.00010914405186971029min.
+['2048' 'Web Games' 'CSS']
+['slap' 'Text Editor' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\2048 done in 3.343423207600911e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\zed done in 3.343423207600911e-05min.
+['BrowserQuest' 'Web Games' 'JavaScript']
+['KomodoEdit' 'Text Editor' 'Python']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\slap done in 3.343423207600911e-05min.
+['codebox' 'Text Editor' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\browserquest done in 4.9908955891927086e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\komodoedit done in 3.321568171183268e-05min.
+['untrusted' 'Web Games' 'JavaScript']
+['Caret' 'Text Editor' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebox done in 3.328720728556315e-05min.
+
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\caret done in 3.328720728556315e-05min.
+['adarkroom' 'Web Games' 'JavaScript']
+['leo-editor' 'Text Editor' 'Python']
+['hextris' 'Web Games' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\adarkroom done in 3.34938367207845e-05min.
+['Chart.js' 'Data Visulization' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\hextris done in 5.0063927968343096e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\leo-editor done in 5.0063927968343096e-05min.
+['clumsy-bird' 'Web Games' 'JavaScript']
+['sigma.js' 'Data Visulization' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\chart.js done in 3.331104914347331e-05min.
+['Leaflet' 'Data Visulization' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\clumsy-bird done in 3.313620885213216e-05min.
+['0hh1' 'Web Games' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sigma.js done in 1.660585403442383e-05min.
+['metrics-graphics' 'Data Visulization' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\leaflet done in 3.331899642944336e-05min.
+['echarts' 'Data Visulization' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\0hh1 done in 3.33706537882487e-05min.
+['d3' 'Data Visulization' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\metrics-graphics done in 1.6657511393229165e-05min.
+['dc.js' 'Data Visulization' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\echarts done in 1.6669432322184246e-05min.
+['chartist-js' 'Data Visulization' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\d3 done in 1.6697247823079427e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\dc.js done in 3.344217936197917e-05min.
+['matplotlib' 'Data Visulization' 'Python']
+['epoch' 'Data Visulization' 'HTML']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\chartist-js done in 3.337462743123372e-05min.
+['arbor' 'Data Visulization' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\matplotlib done in 3.325144449869792e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\epoch done in 3.325144449869792e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\arbor done in 3.322362899780273e-05min.
+['dimple' 'Data Visulization' 'JavaScript']
+['envisionjs' 'Data Visulization' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\peity done in 1.6629695892333984e-05min.
+['raw' 'Data Visulization' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\dimple done in 1.6641616821289062e-05min.
+['BEMSimpleLineGraph' 'Data Visulization' 'Objective-C']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\envisionjs done in 1.6641616821289062e-05min.
+['kartograph.js' 'Data Visulization' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\raw done in 1.666545867919922e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\bemsimplelinegraph done in 1.6760826110839843e-05min.
+['chroma.js' 'Data Visulization' 'CoffeeScript']
+['recline' 'Data Visulization' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\kartograph.js done in 1.6760826110839843e-05min.
+['pygal' 'Data Visulization' 'Python']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\recline done in 3.324747085571289e-05min.
+['modestmaps-js' 'Data Visulization' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\chroma.js done in 3.324747085571289e-05min.
+['seldon-server' 'Machine Learning' 'Java']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\modestmaps-js done in 1.6419092814127603e-05min.
+['oryx' 'Machine Learning' 'Java']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\pygal done in 6.669362386067709e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\seldon-server done in 1.6697247823079427e-05min.
+['cesium' 'Data Visulization' 'JavaScript']
+['Decider' 'Machine Learning' 'Ruby']
+['mahout' 'Machine Learning' 'Java']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\oryx done in 1.6689300537109375e-05min.
+['neon' 'Machine Learning' 'Python']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\decider done in 1.6709168752034504e-05min.
+['jubatus' 'Machine Learning' 'C++']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\mahout done in 3.327131271362305e-05min.
+['golearn' 'Machine Learning' 'Go']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\neon done in 1.6562143961588542e-05min.
+['MLPNeuralNet' 'Machine Learning' 'Objective-C']
+['h2o-2' 'Machine Learning' 'Java']
+['Theano' 'Machine Learning' 'Python']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\jubatus done in 3.324747085571289e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\h2o-2 done in 1.663366953531901e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\golearn done in 3.324747085571289e-05min.
+['datumbox-framework' 'Machine Learning' 'Java']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\mlpneuralnet done in 3.324747085571289e-05min.
+['ML_for_Hackers' 'Machine Learning' 'R']
+['Ruby-warrior' 'Machine Learning' 'Ruby']
+['shogun' 'Machine Learning' 'C++']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\datumbox-framework done in 3.344615300496419e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\ml_for_hackers done in 3.344615300496419e-05min.
+['nupic' 'Machine Learning' 'Python']
+['CNTK' 'Machine Learning' 'C++']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\ruby-warrior done in 3.321170806884766e-05min.
+['caffe' 'Machine Learning' 'C++']
+['xgboost' 'Machine Learning' 'C++']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\shogun done in 3.321170806884766e-05min.
+['GD' 'Games Engines' 'HTML']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\nupic done in 1.671314239501953e-05min.
+['pattern' 'Machine Learning' 'Python']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\cntk done in 3.33706537882487e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\caffe done in 3.33706537882487e-05min.
+['keras' 'Machine Learning' 'Python']
+['scikit-learn' 'Machine Learning' 'Python']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\xgboost done in 3.33706537882487e-05min.
+['mxnet' 'Machine Learning' 'C++']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\gd done in 3.326733907063802e-05min.
+['Dash' 'Games Engines' 'D']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\pattern done in 1.6609827677408855e-05min.
+['convnetjs' 'Machine Learning' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\keras done in 3.335873285929362e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\scikit-learn done in 3.335873285929362e-05min.
+['tensorflow' 'Machine Learning' 'C++']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\dash done in 3.3342838287353514e-05min.
+['panda3d' 'Games Engines' 'C++']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\mxnet done in 3.3342838287353514e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\convnetjs done in 3.3354759216308595e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\tensorflow done in 3.342231114705404e-05min.
+['AtomicGameEngine' 'Games Engines' 'C']
+['jmonkeyengine' 'Games Engines' 'Java']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\panda3d done in 3.342231114705404e-05min.
+['libgdx' 'Games Engines' 'Java']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\brain done in 5.0016244252522786e-05min.
+['duality' 'Games Engines' 'C#']
+['PredictionIO' 'Machine Learning' 'Scala']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\jmonkeyengine done in 3.3235549926757814e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\atomicgameengine done in 3.3235549926757814e-05min.
+['xenko' 'Games Engines' 'C#']
+['Torque2D' 'Games Engines' 'C++']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\libgdx done in 3.3235549926757814e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\predictionio done in 3.333489100138346e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\duality done in 4.9996376037597654e-05min.
+['Torque3D' 'Games Engines' 'C++']
+['MonoGame' 'Games Engines' 'C#']
+['laravel' 'Web Framework' 'PHP']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\xenko done in 3.339846928914388e-05min.
+['spring' 'Games Engines' 'C++']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\torque2d done in 1.6637643178304036e-05min.
+['GamePlay' 'Games Engines' 'C++']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\monogame done in 1.6589959462483723e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\laravel done in 1.6589959462483723e-05min.
+['cocos2d-x' 'Games Engines' 'C++']
+['symfony' 'Web Framework' 'PHP']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\torque3d done in 3.329912821451823e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\spring done in 3.329912821451823e-05min.
+['turbulenz_engine' 'Games Engines' 'TypeScript']
+['superpowers-core' 'Games Engines' 'TypeScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\gameplay done in 1.6709168752034504e-05min.
+['Starling-Framework' 'Games Engines' 'ActionScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\cocos2d-x done in 1.6697247823079427e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\symfony done in 1.6697247823079427e-05min.
+['OpenRA' 'Games Engines' 'C#']
+['cakephp' 'Web Framework' 'PHP']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\turbulenz_engine done in 3.331899642944336e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\superpowers-core done in 3.331899642944336e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\starling-framework done in 3.327131271362305e-05min.
+['godot' 'Games Engines' 'C']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\openra done in 1.6649564107259113e-05min.
+['rails' 'Web Framework' 'Ruby']
+['django' 'Web Framework' 'Python']
+edeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\cakephp done in 1.6649564107259113e-05min.
+['spring-framework' 'Web Framework' 'Java']
+['CodeIgniter' 'Web Framework' 'PHP']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\godot done in 3.331502278645833e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\spring-framework done in 3.331502278645833e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\django done in 3.331502278645833e-05min.
+['openage' 'Games Engines' 'C++']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codeigniter done in 1.6530354817708332e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\rails done in 5.010366439819336e-05min.
+['web2py' 'Web Framework' 'Python']
+['sinatra' 'Web Framework' 'Ruby']
+['derby' 'Web Framework' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\openage done in 1.6689300537109375e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sinatra done in 3.333091735839844e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\web2py done in 3.333091735839844e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\derby done in 3.333091735839844e-05min.
+['frappe' 'Web Framework' 'Python']
+['pakyow' 'Web Framework' 'Ruby']
+['mean' 'Web Framework' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\frappe done in 3.327131271362305e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\pakyow done in 3.327131271362305e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\mean done in 3.327131271362305e-05min.
+['express' 'Web Framework' 'JavaScript']
+['meteor' 'Web Framework' 'JavaScript']
+['flask' 'Web Framework' 'Python']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\express done in 3.330707550048828e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\flask done in 3.330707550048828e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\meteor done in 3.330707550048828e-05min.
+Main process Done..........................
+Start time: 1599641548.133366
+all projects: (103, 3)
+['atom' 'Text Editor' 'CoffeeScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\atom done in 1.6709168752034504e-05min.
+['brackets' 'Text Editor' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\brackets done in 1.659393310546875e-05min.
+['textmate' 'Text Editor' 'C++']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\textmate done in 1.6721089680989585e-05min.
+['LightTable' 'Text Editor' 'Clojure']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\lighttable done in 1.657406489054362e-05min.
+['vim.js' 'Text Editor' 'C']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\vim.js done in 1.662572224934896e-05min.
+['sharelatex' 'Text Editor' 'CoffeeScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sharelatex done in 1.66932741800944e-05min.
+['slap' 'Text Editor' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\slap done in 1.661380132039388e-05min.
+['codebox' 'Text Editor' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebox done in 1.6601880391438804e-05min.
+['zed' 'Text Editor' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\zed done in 0.0min.
+['KomodoEdit' 'Text Editor' 'Python']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\komodoedit done in 1.663366953531901e-05min.
+['Caret' 'Text Editor' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\caret done in 1.6681353251139323e-05min.
+['leo-editor' 'Text Editor' 'Python']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\leo-editor done in 3.3354759216308595e-05min.
+['2048' 'Web Games' 'CSS']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\2048 done in 1.6717116038004556e-05min.
+['BrowserQuest' 'Web Games' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\browserquest done in 1.6609827677408855e-05min.
+['hextris' 'Web Games' 'JavaScript']
+['untrusted' 'Web Games' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\hextris done in 1.6661485036214194e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\untrusted done in 1.6661485036214194e-05min.
+['clumsy-bird' 'Web Games' 'JavaScript']
+['adarkroom' 'Web Games' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\clumsy-bird done in 1.6681353251139323e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\adarkroom done in 1.6681353251139323e-05min.
+['0hh1' 'Web Games' 'JavaScript']
+['Chart.js' 'Data Visulization' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\0hh1 done in 1.6617774963378907e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\chart.js done in 1.6645590464274088e-05min.
+['d3' 'Data Visulization' 'JavaScript']
+['Leaflet' 'Data Visulization' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\d3 done in 1.6717116038004556e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\leaflet done in 1.6717116038004556e-05min.
+['sigma.js' 'Data Visulization' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\echarts done in 1.657406489054362e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sigma.js done in 1.657406489054362e-05min.
+['chartist-js' 'Data Visulization' 'JavaScript']
+['metrics-graphics' 'Data Visulization' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\chartist-js done in 1.6641616821289062e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\metrics-graphics done in 1.6641616821289062e-05min.
+['dc.js' 'Data Visulization' 'JavaScript']
+['matplotlib' 'Data Visulization' 'Python']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\dc.js done in 1.665353775024414e-05min.
+in.
+['epoch' 'Data Visulization' 'HTML']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\peity done in 1.6641616821289062e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\epoch done in 1.6641616821289062e-05min.
+['raw' 'Data Visulization' 'JavaScript']
+['arbor' 'Data Visulization' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\raw done in 1.6681353251139323e-05min.
+['chroma.js' 'Data Visulization' 'CoffeeScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\arbor done in 1.6649564107259113e-05min.
+['dimple' 'Data Visulization' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\chroma.js done in 1.672506332397461e-05min.
+['envisionjs' 'Data Visulization' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\dimple done in 1.672506332397461e-05min.
+['BEMSimpleLineGraph' 'Data Visulization' 'Objective-C']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\envisionjs done in 0.0min.
+['kartograph.js' 'Data Visulization' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\bemsimplelinegraph done in 1.6689300537109375e-05min.
+['recline' 'Data Visulization' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\kartograph.js done in 1.6705195109049478e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\recline done in 1.6705195109049478e-05min.
+['pygal' 'Data Visulization' 'Python']
+['modestmaps-js' 'Data Visulization' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\pygal done in 1.6526381174723306e-05min.
+['cesium' 'Data Visulization' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\modestmaps-js done in 3.314812978108724e-05min.
+['Decider' 'Machine Learning' 'Ruby']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\cesium done in 1.6621748606363933e-05min.
+['seldon-server' 'Machine Learning' 'Java']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\decider done in 1.6673405965169272e-05min.
+['jubatus' 'Machine Learning' 'C++']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\seldon-server done in 1.6697247823079427e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\jubatus done in 1.6748905181884766e-05min.
+['datumbox-framework' 'Machine Learning' 'Java']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\mahout done in 1.654624938964844e-05min.
+['MLPNeuralNet' 'Machine Learning' 'Objective-C']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\datumbox-framework done in 1.654624938964844e-05min.
+['oryx' 'Machine Learning' 'Java']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\mlpneuralnet done in 3.331104914347331e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\oryx done in 1.6621748606363933e-05min.
+['shogun' 'Machine Learning' 'C++']
+['neon' 'Machine Learning' 'Python']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\shogun done in 1.6673405965169272e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\neon done in 1.6673405965169272e-05min.
+['h2o-2' 'Machine Learning' 'Java']
+['golearn' 'Machine Learning' 'Go']
+['Theano' 'Machine Learning' 'Python']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\h2o-2 done in 1.6617774963378907e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\golearn done in 1.6760826110839843e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\theano done in 1.6760826110839843e-05min.
+['ML_for_Hackers' 'Machine Learning' 'R']
+['nupic' 'Machine Learning' 'Python']
+['Ruby-warrior' 'Machine Learning' 'Ruby']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\ml_for_hackers done in 1.674493153889974e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\nupic done in 1.674493153889974e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\ruby-warrior done in 3.325541814168294e-05min.
+['CNTK' 'Machine Learning' 'C++']
+['pattern' 'Machine Learning' 'Python']
+['xgboost' 'Machine Learning' 'C++']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\pattern done in 1.6677379608154298e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\xgboost done in 1.6677379608154298e-05min.
+['keras' 'Machine Learning' 'Python']
+ript']
+['mxnet' 'Machine Learning' 'C++']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\keras done in 1.6697247823079427e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\convnetjs done in 1.6697247823079427e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\mxnet done in 1.6697247823079427e-05min.
+['brain' 'Machine Learning' 'JavaScript']
+['caffe' 'Machine Learning' 'C++']
+['GD' 'Games Engines' 'HTML']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\brain done in 1.66932741800944e-05min.
+['PredictionIO' 'Machine Learning' 'Scala']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\caffe done in 1.66932741800944e-05min.
+['scikit-learn' 'Machine Learning' 'Python']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\gd done in 3.33706537882487e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\predictionio done in 1.6677379608154298e-05min.
+['Dash' 'Games Engines' 'D']
+['AtomicGameEngine' 'Games Engines' 'C']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\scikit-learn done in 1.672506332397461e-05min.
+['tensorflow' 'Machine Learning' 'C++']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\dash done in 1.672506332397461e-05min.
+['panda3d' 'Games Engines' 'C++']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\atomicgameengine done in 1.654624938964844e-05min.
+['xenko' 'Games Engines' 'C#']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\tensorflow done in 0.0min.
+['libgdx' 'Games Engines' 'Java']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\xenko done in 1.6677379608154298e-05min.
+['spring' 'Games Engines' 'C++']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\panda3d done in 1.6677379608154298e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\libgdx done in 1.6681353251139323e-05min.
+['duality' 'Games Engines' 'C#']
+['jmonkeyengine' 'Games Engines' 'Java']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\spring done in 1.6677379608154298e-05min.
+['superpowers-core' 'Games Engines' 'TypeScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\duality done in 1.6677379608154298e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\jmonkeyengine done in 1.663366953531901e-05min.
+['Torque3D' 'Games Engines' 'C++']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\superpowers-core done in 1.663366953531901e-05min.
+['Torque2D' 'Games Engines' 'C++']
+['MonoGame' 'Games Engines' 'C#']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\torque3d done in 1.6677379608154298e-05min.
+['turbulenz_engine' 'Games Engines' 'TypeScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\torque2d done in 1.662572224934896e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\monogame done in 1.662572224934896e-05min.
+['GamePlay' 'Games Engines' 'C++']
+
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\turbulenz_engine done in 1.6705195109049478e-05min.
+['godot' 'Games Engines' 'C']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\cocos2d-x done in 1.672506332397461e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\gameplay done in 1.672506332397461e-05min.
+['OpenRA' 'Games Engines' 'C#']
+['Starling-Framework' 'Games Engines' 'ActionScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\godot done in 1.672506332397461e-05min.
+['openage' 'Games Engines' 'C++']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\openra done in 1.6585985819498697e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\starling-framework done in 1.6585985819498697e-05min.
+['spring-framework' 'Web Framework' 'Java']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\openage done in 1.666545867919922e-05min.
+['laravel' 'Web Framework' 'PHP']
+['rails' 'Web Framework' 'Ruby']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\spring-framework done in 1.666545867919922e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\laravel done in 1.6717116038004556e-05min.
+['django' 'Web Framework' 'Python']
+['symfony' 'Web Framework' 'PHP']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\rails done in 1.6717116038004556e-05min.
+['sinatra' 'Web Framework' 'Ruby']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\django done in 1.6697247823079427e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\symfony done in 1.6697247823079427e-05min.
+['web2py' 'Web Framework' 'Python']
+['cakephp' 'Web Framework' 'PHP']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sinatra done in 1.6645590464274088e-05min.
+['pakyow' 'Web Framework' 'Ruby']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\web2py done in 1.671314239501953e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\cakephp done in 1.671314239501953e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\pakyow done in 1.671314239501953e-05min.
+['frappe' 'Web Framework' 'Python']
+['CodeIgniter' 'Web Framework' 'PHP']
+['flask' 'Web Framework' 'Python']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\flask done in 1.6601880391438804e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\frappe done in 1.6601880391438804e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codeigniter done in 1.6601880391438804e-05min.
+['express' 'Web Framework' 'JavaScript']
+['derby' 'Web Framework' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\derby done in 1.6677379608154298e-05min.
+['mean' 'Web Framework' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\express done in 1.6677379608154298e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\mean done in 0.0min.
+['meteor' 'Web Framework' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\meteor done in 1.6733010609944662e-05min.
+Main process Done..........................
+Start time: 1599641630.37493
+all projects: (103, 3)
+['atom' 'Text Editor' 'CoffeeScript']
+['vim.js' 'Text Editor' 'C']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\atom done in 1.6601880391438804e-05min.
+['brackets' 'Text Editor' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\vim.js done in 1.6729036966959637e-05min.
+['sharelatex' 'Text Editor' 'CoffeeScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\brackets done in 1.662572224934896e-05min.
+['textmate' 'Text Editor' 'C++']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sharelatex done in 1.662572224934896e-05min.
+['zed' 'Text Editor' 'JavaScript']
+['slap' 'Text Editor' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\textmate done in 1.666545867919922e-05min.
+['LightTable' 'Text Editor' 'Clojure']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\slap done in 1.678466796875e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\zed done in 1.678466796875e-05min.
+['codebox' 'Text Editor' 'JavaScript']
+['KomodoEdit' 'Text Editor' 'Python']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\lighttable done in 1.6748905181884766e-05min.
+['2048' 'Web Games' 'CSS']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\komodoedit done in 1.6601880391438804e-05min.
+['Caret' 'Text Editor' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\2048 done in 1.6601880391438804e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\caret done in 1.660585403442383e-05min.
+['BrowserQuest' 'Web Games' 'JavaScript']
+['leo-editor' 'Text Editor' 'Python']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebox done in 4.980961481730143e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\browserquest done in 1.66932741800944e-05min.
+['untrusted' 'Web Games' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\leo-editor done in 3.336668014526367e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\untrusted done in 1.6629695892333984e-05min.
+['hextris' 'Web Games' 'JavaScript']
+cript']
+['adarkroom' 'Web Games' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\adarkroom done in 1.6673405965169272e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\chart.js done in 1.6673405965169272e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\hextris done in 1.6673405965169272e-05min.
+['Leaflet' 'Data Visulization' 'JavaScript']
+['clumsy-bird' 'Web Games' 'JavaScript']
+['sigma.js' 'Data Visulization' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\leaflet done in 1.6760826110839843e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\clumsy-bird done in 1.6760826110839843e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sigma.js done in 1.6760826110839843e-05min.
+['echarts' 'Data Visulization' 'JavaScript']
+['0hh1' 'Web Games' 'JavaScript']
+['metrics-graphics' 'Data Visulization' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\echarts done in 1.6673405965169272e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\0hh1 done in 1.6673405965169272e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\metrics-graphics done in 0.0min.
+['chartist-js' 'Data Visulization' 'JavaScript']
+['dc.js' 'Data Visulization' 'JavaScript']
+['d3' 'Data Visulization' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\chartist-js done in 1.674493153889974e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\d3 done in 1.674493153889974e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\dc.js done in 1.674493153889974e-05min.
+['epoch' 'Data Visulization' 'HTML']
+['matplotlib' 'Data Visulization' 'Python']
+['arbor' 'Data Visulization' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\matplotlib done in 1.659393310546875e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\arbor done in 1.659393310546875e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\epoch done in 1.659393310546875e-05min.
+['peity' 'Data Visulization' 'HTML']
+['dimple' 'Data Visulization' 'JavaScript']
+['envisionjs' 'Data Visulization' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\peity done in 1.6709168752034504e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\dimple done in 1.6709168752034504e-05min.
+['raw' 'Data Visulization' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\envisionjs done in 1.672506332397461e-05min.
+['BEMSimpleLineGraph' 'Data Visulization' 'Objective-C']
+['kartograph.js' 'Data Visulization' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\raw done in 1.6617774963378907e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\bemsimplelinegraph done in 1.6617774963378907e-05min.
+['chroma.js' 'Data Visulization' 'CoffeeScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\kartograph.js done in 1.6617774963378907e-05min.
+['recline' 'Data Visulization' 'JavaScript']
+['pygal' 'Data Visulization' 'Python']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\chroma.js done in 1.661380132039388e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\recline done in 0.0min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\pygal done in 1.6661485036214194e-05min.
+['modestmaps-js' 'Data Visulization' 'JavaScript']
+['cesium' 'Data Visulization' 'JavaScript']
+['seldon-server' 'Machine Learning' 'Java']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\cesium done in 1.6681353251139323e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\seldon-server done in 1.6681353251139323e-05min.
+['oryx' 'Machine Learning' 'Java']
+['mahout' 'Machine Learning' 'Java']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\modestmaps-js done in 3.3342838287353514e-05min.
+['Decider' 'Machine Learning' 'Ruby']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\oryx done in 1.6657511393229165e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\mahout done in 1.6657511393229165e-05min.
+['neon' 'Machine Learning' 'Python']
+['MLPNeuralNet' 'Machine Learning' 'Objective-C']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\decider done in 1.6756852467854817e-05min.
+['jubatus' 'Machine Learning' 'C++']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\neon done in 1.6756852467854817e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\mlpneuralnet done in 0.0min.
+['h2o-2' 'Machine Learning' 'Java']
+['shogun' 'Machine Learning' 'C++']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\jubatus done in 1.6566117604573568e-05min.
+['golearn' 'Machine Learning' 'Go']
+['datumbox-framework' 'Machine Learning' 'Java']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\shogun done in 1.672506332397461e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\h2o-2 done in 1.672506332397461e-05min.
+['ML_for_Hackers' 'Machine Learning' 'R']
+['Theano' 'Machine Learning' 'Python']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\golearn done in 1.663366953531901e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\datumbox-framework done in 1.663366953531901e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\ml_for_hackers done in 0.0min.
+['Ruby-warrior' 'Machine Learning' 'Ruby']
+['CNTK' 'Machine Learning' 'C++']
+['caffe' 'Machine Learning' 'C++']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\theano done in 1.66932741800944e-05min.
+['nupic' 'Machine Learning' 'Python']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\ruby-warrior done in 1.663366953531901e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\cntk done in 1.663366953531901e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\caffe done in 1.663366953531901e-05min.
+['xgboost' 'Machine Learning' 'C++']
+['keras' 'Machine Learning' 'Python']
+['scikit-learn' 'Machine Learning' 'Python']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\nupic done in 1.6621748606363933e-05min.
+['pattern' 'Machine Learning' 'Python']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\xgboost done in 1.6621748606363933e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\keras done in 1.6621748606363933e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\scikit-learn done in 1.6621748606363933e-05min.
+['mxnet' 'Machine Learning' 'C++']
++']
+
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\pattern done in 1.672506332397461e-05min.
+['convnetjs' 'Machine Learning' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\brain done in 1.6673405965169272e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\tensorflow done in 1.6673405965169272e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\mxnet done in 1.6673405965169272e-05min.
+['PredictionIO' 'Machine Learning' 'Scala']
+['libgdx' 'Games Engines' 'Java']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\convnetjs done in 0.0min.
+['GD' 'Games Engines' 'HTML']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\predictionio done in 1.675287882486979e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\libgdx done in 1.675287882486979e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\gd done in 1.6601880391438804e-05min.
+['jmonkeyengine' 'Games Engines' 'Java']
+['Torque3D' 'Games Engines' 'C++']
+['Dash' 'Games Engines' 'D']
+['AtomicGameEngine' 'Games Engines' 'C']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\jmonkeyengine done in 1.6629695892333984e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\torque3d done in 1.6629695892333984e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\dash done in 1.6629695892333984e-05min.
+['Torque2D' 'Games Engines' 'C++']
+['turbulenz_engine' 'Games Engines' 'TypeScript']
+['panda3d' 'Games Engines' 'C++']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\atomicgameengine done in 0.0min.
+['xenko' 'Games Engines' 'C#']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\torque2d done in 0.0min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\panda3d done in 0.0min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\turbulenz_engine done in 0.0min.
+['GamePlay' 'Games Engines' 'C++']
+['godot' 'Games Engines' 'C']
+['duality' 'Games Engines' 'C#']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\xenko done in 1.6840298970540366e-05min.
+['spring' 'Games Engines' 'C++']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\gameplay done in 1.654624938964844e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\godot done in 1.654624938964844e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\duality done in 1.654624938964844e-05min.
+['Starling-Framework' 'Games Engines' 'ActionScript']
+['openage' 'Games Engines' 'C++']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\spring done in 1.660585403442383e-05min.
+['MonoGame' 'Games Engines' 'C#']
+['superpowers-core' 'Games Engines' 'TypeScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\openage done in 1.6677379608154298e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\starling-framework done in 1.6677379608154298e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\superpowers-core done in 1.6677379608154298e-05min.
+['laravel' 'Web Framework' 'PHP']
+['rails' 'Web Framework' 'Ruby']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\monogame done in 1.6677379608154298e-05min.
+['cocos2d-x' 'Games Engines' 'C++']
+['django' 'Web Framework' 'Python']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\laravel done in 1.6637643178304036e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\rails done in 1.6637643178304036e-05min.
+['symfony' 'Web Framework' 'PHP']
+['sinatra' 'Web Framework' 'Ruby']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\cocos2d-x done in 1.66932741800944e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\django done in 1.66932741800944e-05min.
+['OpenRA' 'Games Engines' 'C#']
+['web2py' 'Web Framework' 'Python']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\symfony done in 0.0min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sinatra done in 0.0min.
+['cakephp' 'Web Framework' 'PHP']
+['pakyow' 'Web Framework' 'Ruby']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\openra done in 1.6657511393229165e-05min.
+['spring-framework' 'Web Framework' 'Java']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\web2py done in 1.6657511393229165e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\cakephp done in 1.6645590464274088e-05min.
+['frappe' 'Web Framework' 'Python']
+edeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\pakyow done in 1.6645590464274088e-05min.
+['CodeIgniter' 'Web Framework' 'PHP']
+['flask' 'Web Framework' 'Python']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\spring-framework done in 1.6645590464274088e-05min.
+['derby' 'Web Framework' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\frappe done in 1.6629695892333984e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codeigniter done in 1.6629695892333984e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\flask done in 1.6629695892333984e-05min.
+['express' 'Web Framework' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\derby done in 1.6677379608154298e-05min.
+['mean' 'Web Framework' 'JavaScript']
+eiros/IdeaProjects/LASCAD/LASCAD/showcases_data\express done in 1.6677379608154298e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\mean done in 1.6673405965169272e-05min.
+['meteor' 'Web Framework' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\meteor done in 1.666545867919922e-05min.
+Main process Done..........................
+Start time: 1599641973.3554878
+all projects: (103, 3)
+Start time: 1599642070.8721857
+all projects: (103, 3)
+Start time: 1599642207.0645268
+all projects: (2, 3)
+['featurecloud' 'Visualization' 'Java']
+['generator-jhipster' 'Web Framework' 'JavaScript']
+Error in project ['generator-jhipster' 'Web Framework' 'JavaScript']
+None
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\generator-jhipster done in 0.09925041596094768min.
+Error in project ['featurecloud' 'Visualization' 'Java']
+None
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\featurecloud done in 0.15267488956451417min.
+Main process Done..........................
+Start time: 1599642292.4849696
+all projects: (2, 3)
+['featurecloud' 'Visualization' 'Java']
+['generator-jhipster' 'Web Framework' 'JavaScript']
+Error in project ['generator-jhipster' 'Web Framework' 'JavaScript']
+None
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\generator-jhipster done in 0.15216853221257529min.
+Error in project ['featurecloud' 'Visualization' 'Java']
+None
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\featurecloud done in 0.2267918626467387min.
+Main process Done..........................
+Start time: 1599642377.9474757
+all projects: (2, 3)
+['featurecloud' 'Visualization' 'Java']
+['generator-jhipster' 'Web Framework' 'JavaScript']
+Error in project ['generator-jhipster' 'Web Framework' 'JavaScript']
+None
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\generator-jhipster done in 0.13278225660324097min.
+Error in project ['featurecloud' 'Visualization' 'Java']
+None
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\featurecloud done in 0.20854679743448892min.
+Main process Done..........................
+Start time: 1599642498.0613127
+all projects: (2, 3)
+['featurecloud' 'Visualization' 'Java']
+['generator-jhipster' 'Web Framework' 'JavaScript']
+Start time: 1599642629.8337514
+all projects: (2, 3)
+['featurecloud' 'Visualization' 'Java']
+['generator-jhipster' 'Web Framework' 'JavaScript']
+Error in project ['generator-jhipster' 'Web Framework' 'JavaScript']
+None
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\generator-jhipster done in 2.5252196828524274min.
+Error in project ['featurecloud' 'Visualization' 'Java']
+None
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\featurecloud done in 2.6034016013145447min.
+Main process Done..........................
+Start time: 1599642851.0029755
+all projects: (2, 3)
+['featurecloud' 'Visualization' 'Java']
+['generator-jhipster' 'Web Framework' 'JavaScript']
+Error in project ['generator-jhipster' 'Web Framework' 'JavaScript']
+None
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\generator-jhipster done in 0.1557724912961324min.
+Error in project ['featurecloud' 'Visualization' 'Java']
+None
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\featurecloud done in 0.23417962789535524min.
+Main process Done..........................
+Start time: 1599642979.6744006
+all projects: (2, 3)
+['featurecloud' 'Visualization' 'Java']
+['generator-jhipster' 'Web Framework' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\featurecloud done in 0.3009406129519145min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\generator-jhipster done in 0.6142833153406779min.
+Main process Done..........................
+Start time: 1599839681.9422653
+all projects: (93, 3)
+['Dropbox' 'Test' 'JavaScript']
+['ACM' 'Test' 'JavaScript']
+['ScienceDirect' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\acm done in 0.0005666931470235189min.
+['AutoOpen' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\autoopen done in 5.002419153849284e-05min.
+['MoodleResource' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sciencedirect done in 0.002483228842417399min.
+['Hosting' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\dropbox done in 0.0025998989741007486min.
+['Springer' 'Test' 'JavaScript']
+['Local' 'Test' 'JavaScript']
+['Remote' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\local done in 4.99884287516276e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\hosting done in 6.664196650187174e-05min.
+['Hypothesis' 'Test' 'JavaScript']
+['BrowserStorage' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\springer done in 0.0002833088239034017min.
+['IEEE' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\ieee done in 4.99884287516276e-05min.
+['HTML' 'Test' 'JavaScript']
+['URL' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\url done in 0.0003666838010152181min.
+['URN' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\html done in 0.0010999043782552083min.
+['TXT' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\remote done in 0.0018667221069335938min.
+['AnnotationServer' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\txt done in 0.0007501800855000813min.
+['Format' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\format done in 6.651083628336588e-05min.
+['Source' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\source done in 4.998048146565755e-05min.
+['Selector' 'Test' 'JavaScript']
+['Classifying' 'Test' 'JavaScript']
+['Autocomplete' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\urn done in 0.003283409277598063min.
+['DOI' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\doi done in 0.00483329693476359min.
+['Replying' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\autocomplete done in 0.005866503715515137min.
+['PreviousAssignments' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodleresource done in 0.012249982357025147min.
+['AnnotationPurpose' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotationpurpose done in 8.319218953450521e-05min.
+['Create' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\selector done in 0.008466629187266032min.
+['Target' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\target done in 6.685654322306316e-05min.
+['Filter' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\filter done in 0.00033330519994099935min.
+['LastAnnotation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\browserstorage done in 0.011933294932047527min.
+['Canvas' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\classifying done in 0.009216614564259847min.
+['SentimentAnalysis' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\lastannotation done in 0.001650087038675944min.
+['SidebarNavigation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\canvas done in 0.0015832940737406413min.
+['Navigation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\navigation done in 6.664196650187174e-05min.
+['Highlighting' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\highlighting done in 0.00021674633026123047min.
+['Situated' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\situated done in 6.676514943440756e-05min.
+['IRR' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\irr done in 4.992882410685221e-05min.
+['GoogleSheetConsumer' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\previousassignments done in 0.005149936676025391min.
+['Commenting' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\create done in 0.0045999805132548015min.
+['UserFilter' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sentimentanalysis done in 0.003150053819020589min.
+['SuggestedLiterature' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\hypothesis done in 0.015633376439412434min.
+['Neo4J' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\replying done in 0.008449920018513997min.
+['Categorize' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\commenting done in 0.004033414522806803min.
+['MindMeisterConsumer' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\mindmeisterconsumer done in 4.999240239461263e-05min.
+['MoodleReport' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\categorize done in 0.0031000415484110514min.
+['Assessing' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\neo4j done in 0.006433359781901042min.
+['MoodleConsumer' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\assessing done in 0.0018833716710408529min.
+['Unsituated' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\unsituated done in 4.9968560536702476e-05min.
+['Read' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\read done in 5.0055980682373044e-05min.
+['DeleteAll' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\suggestedliterature done in 0.008350014686584473min.
+['Delete' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\googlesheetconsumer done in 0.009949886798858642min.
+['ImportAnnotations' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\userfilter done in 0.009349962075551351min.
+['JSON' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodleconsumer done in 0.003283389409383138min.
+['Outsourced' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\outsourced done in 4.998445510864258e-05min.
+['AnnotationList' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sidebarnavigation done in 0.01281657616297404min.
+['ImportExport' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\importexport done in 6.666978200276693e-05min.
+['RenameCodebook' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotationserver done in 0.024549969037373862min.
+['PDF' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotationlist done in 0.0012666583061218262min.
+['CodebookDelete' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodlereport done in 0.00848324696222941min.
+['MoodleComment' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\delete done in 0.004116606712341308min.
+['Update' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\json done in 0.0034500757853190103min.
+['TextSummary' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\pdf done in 0.0016167124112447103min.
+['MoodleResourceBased' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodleresourcebased done in 0.00041665236155192056min.
+['CodebookRead' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookread done in 6.655057271321614e-05min.
+['BuiltIn' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\deleteall done in 0.006133325894673665min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\textsummary done in 0.0014000177383422852min.
+['Export' 'Test' 'JavaScript']
+['GoogleSheetProvider' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodlecomment done in 0.0025832692782084147min.
+['CodebookOutsourced' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookoutsourced done in 6.67572021484375e-05min.
+['CodebookCreate' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookcreate done in 8.32358996073405e-05min.
+['CodebookOperation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\export done in 0.0010500788688659669min.
+['Multivalued' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookoperation done in 4.997650782267253e-05min.
+['Alphabetical' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\importannotations done in 0.007649993896484375min.
+['AnnotatedPDF' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\alphabetical done in 0.0013834118843078613min.
+['Date' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\update done in 0.0042999903361002605min.
+['AnnotationOperation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotationoperation done in 8.329153060913086e-05min.
+['Order' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\order done in 5.005200703938802e-05min.
+['Sidebar' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\date done in 0.0006498495737711588min.
+['Number' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sidebar done in 0.0001165628433227539min.
+['Interface' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\interface done in 8.327960968017578e-05min.
+['Presentation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\presentation done in 6.667375564575195e-05min.
+['ExportCodebook' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\number done in 0.0006667137145996094min.
+['CodebookImportExport' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookimportexport done in 6.66340192159017e-05min.
+['Codebook' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotatedpdf done in 0.0015666484832763672min.
+['AnnotatedResource' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotatedresource done in 0.00013326406478881837min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\renamecodebook done in 0.009133414427439372min.
+['CodebookUpdate' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookdelete done in 0.01053338845570882min.
+['Manual' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\multivalued done in 0.013383309046427408min.
+['Hierarchy' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\exportcodebook done in 0.012266588211059571min.
+['ImportCodebook' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebook done in 0.011783297856648762min.
+['WebAnnotationClient' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\webannotationclient done in 0.0005667368570963542min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\googlesheetprovider done in 0.01856679121653239min.
+['MoodleProvider' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\builtin done in 0.022683397928873698min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\importcodebook done in 0.009566708405812582min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodleprovider done in 0.020384546120961508min.
+['MindMeisterProvider' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\mindmeisterprovider done in 5.0004323323567705e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookupdate done in 0.03435149192810059min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\manual done in 0.03210138479868571min.
+['ApplicationBased' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\hierarchy done in 0.03671805858612061min.
+['CodebookTypology' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebooktypology done in 5.011161168416341e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\applicationbased done in 0.011783345540364584min.
+Main process Done..........................
+Start time: 1600091563.6796412
+all projects: (93, 3)
+['Dropbox' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\dropbox done in 3.327528635660807e-05min.
+['Springer' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\springer done in 6.648302078247071e-05min.
+['IEEE' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\ieee done in 1.6736984252929688e-05min.
+['ACM' 'Test' 'JavaScript']
+['ScienceDirect' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sciencedirect done in 1.666545867919922e-05min.
+['Hosting' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\hosting done in 1.660585403442383e-05min.
+['BrowserStorage' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\browserstorage done in 1.6566117604573568e-05min.
+['Local' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\local done in 3.336668014526367e-05min.
+['Hypothesis' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\hypothesis done in 3.350178400675456e-05min.
+['Neo4J' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\neo4j done in 1.6709168752034504e-05min.
+['Remote' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\remote done in 3.3295154571533204e-05min.
+['AnnotationServer' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotationserver done in 1.6645590464274088e-05min.
+['PDF' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\pdf done in 1.6705195109049478e-05min.
+['HTML' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\html done in 1.651446024576823e-05min.
+['TXT' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\txt done in 3.3283233642578124e-05min.
+['Format' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\format done in 3.332694371541341e-05min.
+['URL' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\url done in 1.662572224934896e-05min.
+['URN' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\urn done in 1.6589959462483723e-05min.
+['DOI' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\doi done in 3.341833750406901e-05min.
+['Source' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\source done in 0.0min.
+['Selector' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\selector done in 1.6792615254720053e-05min.
+['Target' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\target done in 1.6657511393229165e-05min.
+['Classifying' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\classifying done in 1.6216437021891276e-05min.
+['SentimentAnalysis' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sentimentanalysis done in 1.663366953531901e-05min.
+['SuggestedLiterature' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\suggestedliterature done in 3.332694371541341e-05min.
+['Autocomplete' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\autocomplete done in 1.6721089680989585e-05min.
+['PreviousAssignments' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\previousassignments done in 3.342628479003906e-05min.
+['Commenting' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\commenting done in 1.6486644744873048e-05min.
+['Replying' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\replying done in 1.6609827677408855e-05min.
+['Categorize' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\categorize done in 1.6474723815917967e-05min.
+['Assessing' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\assessing done in 1.6669432322184246e-05min.
+['AnnotationPurpose' 'Test' 'JavaScript']
+['Filter' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotationpurpose done in 4.9908955891927086e-05min.
+['Create' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\filter done in 3.3342838287353514e-05min.
+['LastAnnotation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\create done in 3.3263365427653e-05min.
+['UserFilter' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\lastannotation done in 1.66932741800944e-05min.
+['SidebarNavigation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sidebarnavigation done in 1.6645590464274088e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\userfilter done in 3.327131271362305e-05min.
+['Canvas' 'Test' 'JavaScript']
+['Situated' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\canvas done in 1.6657511393229165e-05min.
+
+['IRR' 'Test' 'JavaScript']
+['Navigation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\irr done in 1.6748905181884766e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\navigation done in 1.6748905181884766e-05min.
+['GoogleSheetConsumer' 'Test' 'JavaScript']
+['Highlighting' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\googlesheetconsumer done in 1.6597906748453774e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\highlighting done in 1.6597906748453774e-05min.
+['MindMeisterConsumer' 'Test' 'JavaScript']
+['MoodleConsumer' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\mindmeisterconsumer done in 1.674493153889974e-05min.
+['MoodleReport' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodleconsumer done in 5.003213882446289e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodlereport done in 1.615285873413086e-05min.
+['Outsourced' 'Test' 'JavaScript']
+['MoodleComment' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodlecomment done in 1.6721089680989585e-05min.
+['Unsituated' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\outsourced done in 3.331104914347331e-05min.
+['AnnotationList' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\unsituated done in 1.6589959462483723e-05min.
+['Read' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\read done in 1.6729036966959637e-05min.
+['DeleteAll' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotationlist done in 3.331502278645833e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\deleteall done in 1.6701221466064452e-05min.
+['Delete' 'Test' 'JavaScript']
+['ImportAnnotations' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\delete done in 1.6705195109049478e-05min.
+['Update' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\importannotations done in 1.6705195109049478e-05min.
+['AnnotatedPDF' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\update done in 0.0min.
+['AnnotationOperation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotatedpdf done in 1.6776720682779946e-05min.
+['AnnotatedResource' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotationoperation done in 1.6566117604573568e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotatedresource done in 1.6566117604573568e-05min.
+['JSON' 'Test' 'JavaScript']
+ript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\json done in 1.6776720682779946e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\importexport done in 1.6776720682779946e-05min.
+['TextSummary' 'Test' 'JavaScript']
+['RenameCodebook' 'Test' 'JavaScript']
+['CodebookDelete' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\textsummary done in 1.657406489054362e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\renamecodebook done in 1.657406489054362e-05min.
+['Export' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookdelete done in 0.0min.
+['CodebookUpdate' 'Test' 'JavaScript']
+['Manual' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\export done in 1.6844272613525392e-05min.
+['MoodleResourceBased' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\manual done in 5.003213882446289e-05min.
+['ApplicationBased' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookupdate done in 6.676117579142252e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodleresourcebased done in 1.6729036966959637e-05min.
+['CodebookRead' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\applicationbased done in 1.661380132039388e-05min.
+['GoogleSheetProvider' 'Test' 'JavaScript']
+['CodebookOutsourced' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookread done in 1.6673405965169272e-05min.
+['BuiltIn' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\googlesheetprovider done in 1.6645590464274088e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookoutsourced done in 1.6645590464274088e-05min.
+['MoodleProvider' 'Test' 'JavaScript']
+['CodebookCreate' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\builtin done in 1.6558170318603516e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodleprovider done in 1.6558170318603516e-05min.
+['Multivalued' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookcreate done in 1.6780694325764976e-05min.
+['MindMeisterProvider' 'Test' 'JavaScript']
+['CodebookOperation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\multivalued done in 1.6558170318603516e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\mindmeisterprovider done in 1.6558170318603516e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookoperation done in 1.6558170318603516e-05min.
+['Hierarchy' 'Test' 'JavaScript']
+['Alphabetical' 'Test' 'JavaScript']
+['Order' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\hierarchy done in 1.6681353251139323e-05min.
+['CodebookTypology' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\alphabetical done in 0.0min.
+['Date' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\order done in 1.6816457112630208e-05min.
+['Sidebar' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebooktypology done in 1.6673405965169272e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\date done in 1.6673405965169272e-05min.
+['Presentation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sidebar done in 1.663366953531901e-05min.
+['Interface' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\presentation done in 1.6621748606363933e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\interface done in 1.6621748606363933e-05min.
+['ExportCodebook' 'Test' 'JavaScript']
+['CodebookImportExport' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookimportexport done in 1.6705195109049478e-05min.
+['ImportCodebook' 'Test' 'JavaScript']
+['Codebook' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\importcodebook done in 3.3354759216308595e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebook done in 4.9996376037597654e-05min.
+['WebAnnotationClient' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\webannotationclient done in 1.6510486602783203e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\acm done in 0.003667728106180827min.
+['AutoOpen' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\autoopen done in 1.6681353251139323e-05min.
+['MoodleResource' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodleresource done in 1.69674555460612e-05min.
+Main process Done..........................
+Start time: 1600092386.945502
+all projects: (93, 3)
+Start time: 1600092443.477732
+all projects: (93, 3)
+['Dropbox' 'Test' 'JavaScript']
+['ACM' 'Test' 'JavaScript']
+['ScienceDirect' 'Test' 'JavaScript']
+['Local' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\local done in 6.659428278605143e-05min.
+['Hypothesis' 'Test' 'JavaScript']
+['Remote' 'Test' 'JavaScript']
+['HTML' 'Test' 'JavaScript']
+['URL' 'Test' 'JavaScript']
+['Source' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\source done in 4.99884287516276e-05min.
+['Selector' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\url done in 0.00025001764297485354min.
+['URN' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\html done in 0.0008499582608540852min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\dropbox done in 0.0021087050437927244min.
+['TXT' 'Test' 'JavaScript']
+['Springer' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\remote done in 0.0013833363850911458min.
+['AnnotationServer' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\acm done in 0.002925570805867513min.
+['AutoOpen' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\txt done in 0.0009332696596781412min.
+['Format' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\autoopen done in 4.9996376037597654e-05min.
+['MoodleResource' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\format done in 5.005200703938802e-05min.
+['Classifying' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\urn done in 0.002133337656656901min.
+['DOI' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sciencedirect done in 0.003583260377248128min.
+['Hosting' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\springer done in 0.00420000950495402min.
+['IEEE' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\ieee done in 4.9901008605957034e-05min.
+['Autocomplete' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\selector done in 0.005166693528493246min.
+['Target' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\target done in 5.0012270609537764e-05min.
+['Replying' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\doi done in 0.0040000041325887045min.
+['AnnotationPurpose' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotationpurpose done in 4.9968560536702476e-05min.
+['Create' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\classifying done in 0.005633294582366943min.
+['SentimentAnalysis' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\autocomplete done in 0.0038334131240844727min.
+['PreviousAssignments' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sentimentanalysis done in 0.0015333255132039389min.
+['SuggestedLiterature' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\create done in 0.002599962552388509min.
+['UserFilter' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodleresource done in 0.00924993356068929min.
+['Filter' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\filter done in 0.00020000139872233073min.
+['LastAnnotation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\lastannotation done in 0.0014500578244527182min.
+['SidebarNavigation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\hosting done in 0.009900001684824626min.
+['BrowserStorage' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\replying done in 0.008033323287963866min.
+['Categorize' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\suggestedliterature done in 0.006000045935312907min.
+['Canvas' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\userfilter done in 0.006299960613250733min.
+['Situated' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\situated done in 5.000034968058268e-05min.
+['IRR' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\categorize done in 0.0020333131154378257min.
+['Assessing' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\irr done in 6.664594014485678e-05min.
+['GoogleSheetConsumer' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\canvas done in 0.001316698392232259min.
+['Navigation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\navigation done in 6.661415100097656e-05min.
+['Highlighting' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\highlighting done in 5.009571711222331e-05min.
+['MindMeisterConsumer' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\mindmeisterconsumer done in 3.328720728556315e-05min.
+['MoodleReport' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\previousassignments done in 0.008199981848398845min.
+['Commenting' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\assessing done in 0.0016833623250325522min.
+['MoodleConsumer' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\hypothesis done in 0.01831667423248291min.
+['Neo4J' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotationserver done in 0.017283292611440022min.
+['PDF' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\pdf done in 0.001016672452290853min.
+['Unsituated' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\unsituated done in 6.663004557291666e-05min.
+['Read' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\read done in 3.335873285929362e-05min.
+['DeleteAll' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodleconsumer done in 0.002166612943013509min.
+['Outsourced' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\outsourced done in 6.666978200276693e-05min.
+['AnnotationList' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\commenting done in 0.0029833634694417317min.
+['Delete' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotationlist done in 0.0009000460306803385min.
+['ImportAnnotations' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sidebarnavigation done in 0.00863331953684489min.
+['JSON' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\browserstorage done in 0.00861670970916748min.
+['ImportExport' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\importexport done in 4.9968560536702476e-05min.
+['RenameCodebook' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\neo4j done in 0.004166734218597412min.
+['CodebookDelete' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodlereport done in 0.005666617552439372min.
+['MoodleComment' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\delete done in 0.002866649627685547min.
+['Update' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\deleteall done in 0.0036834200223286946min.
+['MoodleResourceBased' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodlecomment done in 0.0012166857719421386min.
+['GoogleSheetProvider' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodleresourcebased done in 0.00024997790654500326min.
+['CodebookRead' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookread done in 5.0008296966552734e-05min.
+['BuiltIn' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\json done in 0.00269999106725057min.
+['TextSummary' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\textsummary done in 0.0010332902272542318min.
+['Export' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\update done in 0.002350012461344401min.
+['AnnotationOperation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotationoperation done in 5.004008611043294e-05min.
+['CodebookOutsourced' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookoutsourced done in 8.329550425211589e-05min.
+['CodebookCreate' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookcreate done in 5.004405975341797e-05min.
+['CodebookOperation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookoperation done in 6.659030914306641e-05min.
+['Multivalued' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\export done in 0.0007666905721028645min.
+['Alphabetical' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\importannotations done in 0.005216646194458008min.
+['AnnotatedPDF' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\alphabetical done in 0.0007166504859924316min.
+['Date' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\date done in 0.0003666996955871582min.
+['Number' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\number done in 0.00046671628952026366min.
+['Order' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\order done in 4.991690317789714e-05min.
+['Sidebar' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sidebar done in 5.002816518147787e-05min.
+['Interface' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\interface done in 4.994074503580729e-05min.
+['Presentation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\presentation done in 5.000034968058268e-05min.
+['ExportCodebook' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotatedpdf done in 0.0055000106493632min.
+['AnnotatedResource' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotatedresource done in 3.331502278645833e-05min.
+['CodebookImportExport' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookimportexport done in 3.3295154571533204e-05min.
+['Codebook' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\renamecodebook done in 0.009983221689860025min.
+['CodebookUpdate' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookdelete done in 0.010699907938639322min.
+['Manual' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\googlesheetconsumer done in 0.019533185164133708min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\multivalued done in 0.010516524314880371min.
+['Hierarchy' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\exportcodebook done in 0.011667184034983317min.
+['ImportCodebook' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebook done in 0.007867141564687093min.
+['WebAnnotationClient' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\webannotationclient done in 0.00023334026336669923min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\builtin done in 0.01705046892166138min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\importcodebook done in 0.0073832472165425616min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\manual done in 0.016783793767293293min.
+['ApplicationBased' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\googlesheetprovider done in 0.02843391497929891min.
+['MoodleProvider' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookupdate done in 0.023976194858551025min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\hierarchy done in 0.021692760785420737min.
+['CodebookTypology' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebooktypology done in 3.337462743123372e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\applicationbased done in 0.009409081935882569min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodleprovider done in 0.03317615985870361min.
+['MindMeisterProvider' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\mindmeisterprovider done in 0.00010440746943155925min.
+Main process Done..........................
+Start time: 1600094712.3013954
+all projects: (93, 3)
+['Dropbox' 'Test' 'JavaScript']
+['ACM' 'Test' 'JavaScript']
+['ScienceDirect' 'Test' 'JavaScript']
+['Local' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\local done in 4.994074503580729e-05min.
+['Hypothesis' 'Test' 'JavaScript']
+['Remote' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\dropbox done in 0.0030666708946228026min.
+['Springer' 'Test' 'JavaScript']
+['HTML' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\remote done in 0.0018000086148579916min.
+['AnnotationServer' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\acm done in 0.003950079282124837min.
+['AutoOpen' 'Test' 'JavaScript']
+['URL' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\autoopen done in 0.0001999537150065104min.
+['MoodleResource' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\url done in 0.00033344825108846027min.
+['URN' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\html done in 0.002299940586090088min.
+['TXT' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sciencedirect done in 0.0052334308624267575min.
+['Hosting' 'Test' 'JavaScript']
+['Source' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\source done in 5.0012270609537764e-05min.
+['Selector' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\txt done in 0.0018166263898213705min.
+['Format' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\format done in 3.3263365427653e-05min.
+['Classifying' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\urn done in 0.0034664114316304523min.
+['DOI' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\springer done in 0.006533300876617432min.
+['IEEE' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\ieee done in 4.99884287516276e-05min.
+['Autocomplete' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\doi done in 0.006133325894673665min.
+['Replying' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\selector done in 0.008366696039835612min.
+['Target' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\target done in 8.324384689331054e-05min.
+['AnnotationPurpose' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotationpurpose done in 6.655454635620117e-05min.
+['Create' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\classifying done in 0.009266666571299235min.
+['SentimentAnalysis' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\autocomplete done in 0.0077666441599528min.
+['PreviousAssignments' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sentimentanalysis done in 0.0032833973566691083min.
+['SuggestedLiterature' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\create done in 0.005100059509277344min.
+['UserFilter' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodleresource done in 0.01801677942276001min.
+['Filter' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\filter done in 0.0005334814389546713min.
+['LastAnnotation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\hosting done in 0.017916667461395263min.
+['BrowserStorage' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\lastannotation done in 0.0020165801048278808min.
+['SidebarNavigation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\replying done in 0.015683265527089436min.
+['Categorize' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\hypothesis done in 0.029066721598307293min.
+['Neo4J' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\suggestedliterature done in 0.009749941031138102min.
+['Canvas' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\previousassignments done in 0.013366603851318359min.
+['Commenting' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\userfilter done in 0.00971659819285075min.
+['Situated' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\situated done in 4.9944718678792315e-05min.
+['IRR' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\canvas done in 0.0011334975560506185min.
+['Navigation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\irr done in 8.344650268554688e-05min.
+['GoogleSheetConsumer' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\navigation done in 4.993279774983724e-05min.
+['Highlighting' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\highlighting done in 5.002816518147787e-05min.
+['MindMeisterConsumer' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\mindmeisterconsumer done in 3.339449564615885e-05min.
+['MoodleReport' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\categorize done in 0.002033392588297526min.
+['Assessing' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotationserver done in 0.028733364741007485min.
+['PDF' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\assessing done in 0.0015667041142781576min.
+['MoodleConsumer' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\pdf done in 0.0011998891830444336min.
+['Unsituated' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\unsituated done in 6.658236185709635e-05min.
+['Read' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\read done in 4.9885114034016924e-05min.
+['DeleteAll' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\commenting done in 0.0034833312034606933min.
+['Delete' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\neo4j done in 0.0045832594235738116min.
+['ImportAnnotations' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\browserstorage done in 0.011249931653340657min.
+['JSON' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sidebarnavigation done in 0.010349881649017335min.
+['ImportExport' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\importexport done in 5.004803339640299e-05min.
+['RenameCodebook' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodleconsumer done in 0.00258332093556722min.
+['Outsourced' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\outsourced done in 4.992087682088216e-05min.
+['AnnotationList' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotationlist done in 0.001083354155222575min.
+['CodebookDelete' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\delete done in 0.003416641553243001min.
+['Update' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodlereport done in 0.0067500114440917965min.
+['MoodleComment' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\json done in 0.0031334877014160155min.
+['TextSummary' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\deleteall done in 0.004799894491831462min.
+['MoodleResourceBased' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodleresourcebased done in 0.000383293628692627min.
+['CodebookRead' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookread done in 5.0123532613118486e-05min.
+['BuiltIn' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\textsummary done in 0.0019999583562215167min.
+['Export' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodlecomment done in 0.002183242638905843min.
+['GoogleSheetProvider' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\update done in 0.0036501049995422362min.
+['AnnotationOperation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotationoperation done in 4.9968560536702476e-05min.
+['CodebookOutsourced' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookoutsourced done in 3.328720728556315e-05min.
+['CodebookCreate' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookcreate done in 8.316834767659505e-05min.
+['CodebookOperation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookoperation done in 6.674528121948242e-05min.
+['Multivalued' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\export done in 0.001216741402943929min.
+['Alphabetical' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\importannotations done in 0.007399864991505941min.
+['AnnotatedPDF' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\alphabetical done in 0.0013665994008382162min.
+['Date' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\date done in 0.0008500019709269205min.
+['Number' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\number done in 0.0006500124931335449min.
+['Order' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\order done in 5.0020217895507815e-05min.
+['Sidebar' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sidebar done in 5.0004323323567705e-05min.
+['Interface' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\interface done in 3.3263365427653e-05min.
+['Presentation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\presentation done in 3.336270650227865e-05min.
+['ExportCodebook' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotatedpdf done in 0.0068343718846639min.
+['AnnotatedResource' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotatedresource done in 3.3239523569742836e-05min.
+['CodebookImportExport' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookimportexport done in 3.3291180928548175e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\renamecodebook done in 0.013550825913747152min.
+['Codebook' 'Test' 'JavaScript']
+['CodebookUpdate' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookdelete done in 0.01416767438252767min.
+['Manual' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\multivalued done in 0.013726794719696045min.
+['Hierarchy' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\googlesheetconsumer done in 0.025443498293558756min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebook done in 0.012893354892730713min.
+['WebAnnotationClient' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\exportcodebook done in 0.017210221290588378min.
+['ImportCodebook' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\webannotationclient done in 0.0004999518394470214min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\builtin done in 0.02487653891245524min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\importcodebook done in 0.00788413683573405min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\manual done in 0.022060159842173258min.
+['ApplicationBased' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\googlesheetprovider done in 0.03599436283111572min.
+['MoodleProvider' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookupdate done in 0.030126821994781495min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\hierarchy done in 0.02673432429631551min.
+['CodebookTypology' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebooktypology done in 3.328720728556315e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\applicationbased done in 0.009683175881703695min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodleprovider done in 0.033491679032643634min.
+['MindMeisterProvider' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\mindmeisterprovider done in 3.346999486287435e-05min.
+Main process Done..........................
+Start time: 1600094734.375423
+all projects: (93, 3)
+['ACM' 'Test' 'JavaScript']
+']
+['ScienceDirect' 'Test' 'JavaScript']
+['Local' 'Test' 'JavaScript']
+['Remote' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\local done in 6.6681702931722e-05min.
+['Hypothesis' 'Test' 'JavaScript']
+['HTML' 'Test' 'JavaScript']
+['URL' 'Test' 'JavaScript']
+['Source' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\source done in 5.0063927968343096e-05min.
+['Selector' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\url done in 0.0005166093508402506min.
+['URN' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\html done in 0.001433253288269043min.
+['TXT' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\remote done in 0.0027333577473958332min.
+['AnnotationServer' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\txt done in 0.0016669273376464845min.
+['Format' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\format done in 5.01553217569987e-05min.
+['Classifying' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\urn done in 0.0035832842191060384min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\dropbox done in 0.004350010553995768min.
+['Springer' 'Test' 'JavaScript']
+['DOI' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\acm done in 0.005250076452891032min.
+['AutoOpen' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\autoopen done in 6.668567657470703e-05min.
+['MoodleResource' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sciencedirect done in 0.005950061480204264min.
+['Hosting' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\selector done in 0.0076665043830871586min.
+['Target' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\target done in 5.003213882446289e-05min.
+['Autocomplete' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\doi done in 0.007133225599924724min.
+['Replying' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\springer done in 0.00746676524480184min.
+['IEEE' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\ieee done in 4.988908767700195e-05min.
+['AnnotationPurpose' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotationpurpose done in 5.002419153849284e-05min.
+['Create' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\classifying done in 0.011466666062672933min.
+['SentimentAnalysis' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\create done in 0.004950265089670817min.
+['UserFilter' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sentimentanalysis done in 0.004666642347971598min.
+['SuggestedLiterature' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\autocomplete done in 0.011800034840901693min.
+['PreviousAssignments' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodleresource done in 0.017483182748158774min.
+['Filter' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\filter done in 0.0002834359804789225min.
+['LastAnnotation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\lastannotation done in 0.0015999873479207356min.
+['SidebarNavigation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\hosting done in 0.01885013182957967min.
+['BrowserStorage' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\userfilter done in 0.010349567731221516min.
+['Canvas' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\replying done in 0.016433338324228924min.
+['Categorize' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\suggestedliterature done in 0.008616570631663005min.
+['Situated' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\situated done in 5.009969075520833e-05min.
+['IRR' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\irr done in 4.991292953491211e-05min.
+['GoogleSheetConsumer' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\canvas done in 0.0012999614079793294min.
+['Navigation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\navigation done in 5.0063927968343096e-05min.
+['Highlighting' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\highlighting done in 3.333489100138346e-05min.
+['MindMeisterConsumer' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\mindmeisterconsumer done in 4.9960613250732425e-05min.
+['MoodleReport' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\hypothesis done in 0.029783384005228678min.
+['Neo4J' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\categorize done in 0.0022999882698059083min.
+['Assessing' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\previousassignments done in 0.010799980163574219min.
+['Commenting' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotationserver done in 0.02850000063578288min.
+['PDF' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\assessing done in 0.0018666386604309082min.
+['MoodleConsumer' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\pdf done in 0.0013667265574137369min.
+['Unsituated' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\unsituated done in 5.0063927968343096e-05min.
+['Read' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\read done in 4.994074503580729e-05min.
+['DeleteAll' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\commenting done in 0.003733325004577637min.
+['Delete' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodleconsumer done in 0.0026166677474975587min.
+['Outsourced' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\outsourced done in 5.004405975341797e-05min.
+['AnnotationList' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sidebarnavigation done in 0.010066525141398112min.
+['ImportAnnotations' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\neo4j done in 0.005099952220916748min.
+['JSON' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\browserstorage done in 0.01046661138534546min.
+['ImportExport' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\importexport done in 3.333489100138346e-05min.
+['RenameCodebook' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodlereport done in 0.006866459051767985min.
+['MoodleComment' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotationlist done in 0.0011665741602579752min.
+['CodebookDelete' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\deleteall done in 0.004350030422210693min.
+['MoodleResourceBased' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodlecomment done in 0.0015332539876302083min.
+['GoogleSheetProvider' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodleresourcebased done in 0.0002500057220458984min.
+['CodebookRead' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookread done in 4.994074503580729e-05min.
+['BuiltIn' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\json done in 0.0030832211176554363min.
+['TextSummary' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\delete done in 0.0034500638643900554min.
+['Update' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\textsummary done in 0.0011833469072977702min.
+['Export' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\export done in 0.0011500040690104166min.
+['CodebookOutsourced' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookoutsourced done in 3.338257471720378e-05min.
+['CodebookCreate' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookcreate done in 5.0020217895507815e-05min.
+['CodebookOperation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookoperation done in 5.0008296966552734e-05min.
+['Multivalued' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\update done in 0.0029166420300801594min.
+['AnnotationOperation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\importannotations done in 0.006283322970072429min.
+['AnnotatedPDF' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotationoperation done in 5.002419153849284e-05min.
+['Alphabetical' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\alphabetical done in 0.0007332881291707356min.
+['Date' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\date done in 0.0006833632787068684min.
+['Number' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\number done in 0.0006666302680969239min.
+['Order' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\order done in 0.00028338432312011717min.
+['Sidebar' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sidebar done in 0.00014983415603637696min.
+['Interface' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\interface done in 5.0012270609537764e-05min.
+['Presentation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\presentation done in 3.331899642944336e-05min.
+['ExportCodebook' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotatedpdf done in 0.008033339182535808min.
+['AnnotatedResource' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotatedresource done in 0.00010008414586385092min.
+['CodebookImportExport' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookimportexport done in 0.00011664231618245443min.
+['Codebook' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\renamecodebook done in 0.014258817831675211min.
+['CodebookUpdate' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookdelete done in 0.015092146396636964min.
+['Manual' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\googlesheetconsumer done in 0.026258726914723713min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\multivalued done in 0.015459950764973958min.
+['Hierarchy' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebook done in 0.011652135848999023min.
+['WebAnnotationClient' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\webannotationclient done in 0.0003166675567626953min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\exportcodebook done in 0.017552204926808677min.
+['ImportCodebook' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\builtin done in 0.024718848864237468min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\importcodebook done in 0.007142384847005208min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\manual done in 0.022652304172515868min.
+['ApplicationBased' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\googlesheetprovider done in 0.040811216831207274min.
+['MoodleProvider' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookupdate done in 0.03456894954045613min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\hierarchy done in 0.030718040466308594min.
+['CodebookTypology' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebooktypology done in 5.0004323323567705e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\applicationbased done in 0.014049990971883138min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodleprovider done in 0.041895421346028645min.
+['MindMeisterProvider' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\mindmeisterprovider done in 1.6498565673828126e-05min.
+Main process Done..........................
+Start time: 1600094846.3986788
+all projects: (93, 3)
+Start time: 1600094876.5492818
+all projects: (93, 3)
+['Dropbox' 'Test' 'JavaScript']
+['ACM' 'Test' 'JavaScript']
+['ScienceDirect' 'Test' 'JavaScript']
+['Local' 'Test' 'JavaScript']
+['Remote' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\local done in 0.0001165628433227539min.
+['Hypothesis' 'Test' 'JavaScript']
+['HTML' 'Test' 'JavaScript']
+['URL' 'Test' 'JavaScript']
+['Source' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\source done in 6.6832701365153e-05min.
+['Selector' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\url done in 0.24120306173960368min.
+['URN' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\html done in 0.2822328488032023min.
+['TXT' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\remote done in 0.3280304233233134min.
+['AnnotationServer' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\txt done in 0.0020000338554382324min.
+['Format' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\format done in 0.00010015964508056641min.
+['Classifying' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\urn done in 0.00431677500406901min.
+['DOI' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\dropbox done in 0.3304138700167338min.
+['Springer' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\acm done in 0.33199729522069293min.
+['AutoOpen' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\autoopen done in 5.008379618326823e-05min.
+['MoodleResource' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sciencedirect done in 0.33258055051167806min.
+['Hosting' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\selector done in 0.2202244242032369min.
+['Target' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\target done in 3.331502278645833e-05min.
+['Autocomplete' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\doi done in 0.005849921703338623min.
+['Replying' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\springer done in 0.006066600481669108min.
+['IEEE' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\ieee done in 3.333886464436849e-05min.
+['AnnotationPurpose' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotationpurpose done in 3.343423207600911e-05min.
+['Create' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\classifying done in 0.00836647351582845min.
+['SentimentAnalysis' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sentimentanalysis done in 0.002700058619181315min.
+['SuggestedLiterature' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\create done in 0.0038666804631551106min.
+['UserFilter' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\autocomplete done in 0.005783387025197347min.
+['PreviousAssignments' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodleresource done in 0.014851041634877523min.
+['Filter' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\filter done in 0.000283352533976237min.
+['LastAnnotation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\hosting done in 0.015151115258534749min.
+['BrowserStorage' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\replying done in 0.011984467506408691min.
+['Categorize' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\lastannotation done in 0.001316678524017334min.
+['SidebarNavigation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\suggestedliterature done in 0.008984375min.
+['Canvas' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\userfilter done in 0.008984394868214925min.
+['Situated' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\situated done in 3.332694371541341e-05min.
+['IRR' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\irr done in 5.000034968058268e-05min.
+['GoogleSheetConsumer' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\categorize done in 0.002200043201446533min.
+['Assessing' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\canvas done in 0.001249996821085612min.
+['Navigation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\navigation done in 3.3303101857503256e-05min.
+['Highlighting' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\highlighting done in 3.333489100138346e-05min.
+['MindMeisterConsumer' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\mindmeisterconsumer done in 3.333886464436849e-05min.
+['MoodleReport' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\previousassignments done in 0.011001050472259521min.
+['Commenting' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\assessing done in 0.001566636562347412min.
+['MoodleConsumer' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotationserver done in 0.02441778580347697min.
+['PDF' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\hypothesis done in 0.3527649958928426min.
+['Neo4J' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\pdf done in 0.0015166799227396648min.
+['Unsituated' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\unsituated done in 4.988908767700195e-05min.
+['Read' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\read done in 3.339846928914388e-05min.
+['DeleteAll' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodleconsumer done in 0.003399964173634847min.
+['Outsourced' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\outsourced done in 5.004405975341797e-05min.
+['AnnotationList' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\commenting done in 0.004333309332529704min.
+['Delete' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotationlist done in 0.0012666543324788412min.
+['ImportAnnotations' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodlereport done in 0.007633435726165772min.
+['MoodleComment' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\browserstorage done in 0.01129992405573527min.
+['JSON' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\neo4j done in 0.006300028165181478min.
+['ImportExport' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\importexport done in 3.3346811930338543e-05min.
+['RenameCodebook' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\deleteall done in 0.005749956766764323min.
+['CodebookDelete' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sidebarnavigation done in 0.01153336763381958min.
+['MoodleResourceBased' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodleresourcebased done in 0.00034995873769124347min.
+['CodebookRead' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookread done in 6.679693857828776e-05min.
+['BuiltIn' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\delete done in 0.004700072606404622min.
+['Update' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodlecomment done in 0.0024833122889200846min.
+['GoogleSheetProvider' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\json done in 0.0036166946093241373min.
+['TextSummary' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\update done in 0.0034333070119222007min.
+['AnnotationOperation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotationoperation done in 5.000034968058268e-05min.
+['CodebookOutsourced' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookoutsourced done in 3.333489100138346e-05min.
+['CodebookCreate' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookcreate done in 4.99884287516276e-05min.
+['CodebookOperation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookoperation done in 4.999240239461263e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\textsummary done in 0.0016499797503153482min.
+['Multivalued' 'Test' 'JavaScript']
+['Export' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\importannotations done in 0.007999996344248453min.
+['AnnotatedPDF' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\export done in 0.0009666204452514649min.
+['Alphabetical' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\alphabetical done in 0.0008667111396789551min.
+['Date' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\date done in 0.0005000432332356771min.
+['Number' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\number done in 0.0005166649818420411min.
+['Order' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\order done in 3.333489100138346e-05min.
+['Sidebar' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sidebar done in 3.332297007242839e-05min.
+['Interface' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\interface done in 3.3303101857503256e-05min.
+['Presentation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\presentation done in 5.0071875254313154e-05min.
+['ExportCodebook' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotatedpdf done in 0.006166692574818929min.
+['AnnotatedResource' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotatedresource done in 3.330707550048828e-05min.
+['CodebookImportExport' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookimportexport done in 5.0055980682373044e-05min.
+['Codebook' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\renamecodebook done in 0.01281674305597941min.
+['CodebookUpdate' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookdelete done in 0.013850017388661703min.
+['Manual' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\googlesheetconsumer done in 0.025800009568532307min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\multivalued done in 0.012799962361653646min.
+['Hierarchy' 'Test' 'JavaScript']
+Start time: 1600094989.7333689
+all projects: (93, 3)
+['ACM' 'Test' 'JavaScript']
+']
+['ScienceDirect' 'Test' 'JavaScript']
+['Local' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\local done in 3.333886464436849e-05min.
+['Hypothesis' 'Test' 'JavaScript']
+['Remote' 'Test' 'JavaScript']
+['HTML' 'Test' 'JavaScript']
+['URL' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\url done in 0.0003501693407694499min.
+['URN' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\remote done in 0.0014666994412740073min.
+['AnnotationServer' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\dropbox done in 0.00236659049987793min.
+['Springer' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\html done in 0.0013833324114481608min.
+['TXT' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\acm done in 0.0035679419835408527min.
+['AutoOpen' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\autoopen done in 3.331502278645833e-05min.
+['MoodleResource' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sciencedirect done in 0.004235319296518962min.
+['Hosting' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\txt done in 0.0015520572662353516min.
+['Format' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\format done in 3.341833750406901e-05min.
+['Source' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\source done in 9.996493657430014e-05min.
+['Selector' 'Test' 'JavaScript']
+['Classifying' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\urn done in 0.0032685359319051107min.
+['DOI' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\springer done in 0.005518774191538493min.
+['IEEE' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\ieee done in 3.332694371541341e-05min.
+['Autocomplete' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\doi done in 0.004091958204905192min.
+['Replying' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\selector done in 0.0053920706113179525min.
+['Target' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\target done in 3.319978713989258e-05min.
+['AnnotationPurpose' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotationpurpose done in 1.6701221466064452e-05min.
+['Create' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\classifying done in 0.005708678563435873min.
+['SentimentAnalysis' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\autocomplete done in 0.003742035230000814min.
+['PreviousAssignments' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sentimentanalysis done in 0.0015999754269917807min.
+['SuggestedLiterature' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\create done in 0.0025166829427083334min.
+['UserFilter' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodleresource done in 0.010075998306274415min.
+['Filter' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\filter done in 0.00015000899632771809min.
+['LastAnnotation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\hosting done in 0.010191857814788818min.
+['BrowserStorage' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\lastannotation done in 0.0011333425839742024min.
+['SidebarNavigation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\replying done in 0.007599973678588867min.
+['Categorize' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\suggestedliterature done in 0.005525569121042888min.
+['Canvas' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\userfilter done in 0.0056754469871520994min.
+['Situated' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\situated done in 3.332694371541341e-05min.
+['IRR' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\irr done in 3.3342838287353514e-05min.
+['GoogleSheetConsumer' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\categorize done in 0.0018088380495707194min.
+['Assessing' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\previousassignments done in 0.007475431760152181min.
+['Commenting' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\canvas done in 0.0012000203132629395min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\hypothesis done in 0.018869495391845702min.
+['Navigation' 'Test' 'JavaScript']
+['Neo4J' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\navigation done in 1.6578038533528645e-05min.
+['Highlighting' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\highlighting done in 3.3295154571533204e-05min.
+['MindMeisterConsumer' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\mindmeisterconsumer done in 3.339846928914388e-05min.
+['MoodleReport' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotationserver done in 0.017469672362009685min.
+['PDF' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\assessing done in 0.001533337434132894min.
+['MoodleConsumer' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\pdf done in 0.0012499729792277018min.
+['Unsituated' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\unsituated done in 3.3406416575113934e-05min.
+['Read' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\read done in 3.3263365427653e-05min.
+['DeleteAll' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\commenting done in 0.00370870033899943min.
+['Delete' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodleconsumer done in 0.00262528657913208min.
+['Outsourced' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\outsourced done in 1.6637643178304036e-05min.
+['AnnotationList' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\browserstorage done in 0.009334166844685873min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sidebarnavigation done in 0.008784139156341552min.
+['ImportAnnotations' 'Test' 'JavaScript']
+['JSON' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\neo4j done in 0.004575264453887939min.
+['ImportExport' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\importexport done in 1.6705195109049478e-05min.
+['RenameCodebook' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotationlist done in 0.000833288828531901min.
+['CodebookDelete' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\deleteall done in 0.0037420233090718585min.
+['MoodleResourceBased' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodleresourcebased done in 0.00019997358322143555min.
+['CodebookRead' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookread done in 3.3342838287353514e-05min.
+['BuiltIn' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodlereport done in 0.005808595816294352min.
+['MoodleComment' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\delete done in 0.0025333285331726072min.
+['Update' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\json done in 0.0021499196688334146min.
+['TextSummary' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodlecomment done in 0.0013166705767313639min.
+['GoogleSheetProvider' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\textsummary done in 0.0012333353360493978min.
+['Export' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\update done in 0.0024666349093119305min.
+['AnnotationOperation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotationoperation done in 3.33706537882487e-05min.
+['CodebookOutsourced' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookoutsourced done in 1.6641616821289062e-05min.
+['CodebookCreate' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookcreate done in 3.336668014526367e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\export done in 0.0008000055948893229min.
+['CodebookOperation' 'Test' 'JavaScript']
+['Multivalued' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookoperation done in 1.6641616821289062e-05min.
+['Alphabetical' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\importannotations done in 0.004967359701792399min.
+['AnnotatedPDF' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\alphabetical done in 0.000734094778696696min.
+['Date' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\date done in 0.00035004218419392905min.
+['Number' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\number done in 0.00046660900115966795min.
+['Order' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\order done in 3.333886464436849e-05min.
+['Sidebar' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sidebar done in 3.332694371541341e-05min.
+['Interface' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\interface done in 3.3342838287353514e-05min.
+['Presentation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\presentation done in 5.010366439819336e-05min.
+['ExportCodebook' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotatedpdf done in 0.006099994977315267min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\renamecodebook done in 0.010834074020385743min.
+['AnnotatedResource' 'Test' 'JavaScript']
+['CodebookUpdate' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotatedresource done in 3.325144449869792e-05min.
+['CodebookImportExport' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookimportexport done in 3.335873285929362e-05min.
+['Codebook' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookdelete done in 0.011584035555521647min.
+['Manual' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\googlesheetconsumer done in 0.020984681447347005min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\multivalued done in 0.01165939966837565min.
+['Hierarchy' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\exportcodebook done in 0.013275146484375min.
+['ImportCodebook' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebook done in 0.009109767278035481min.
+['WebAnnotationClient' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\webannotationclient done in 0.000266722838083903min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\builtin done in 0.01947713295618693min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\importcodebook done in 0.007769250869750976min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\manual done in 0.019229042530059814min.
+['ApplicationBased' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\googlesheetprovider done in 0.03196329673131307min.
+['MoodleProvider' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookupdate done in 0.026395551363627114min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\hierarchy done in 0.02315371831258138min.
+['CodebookTypology' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebooktypology done in 1.6697247823079427e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\applicationbased done in 0.008933250109354656min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodleprovider done in 0.030416639645894368min.
+['MindMeisterProvider' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\mindmeisterprovider done in 1.6717116038004556e-05min.
+Main process Done..........................
+Start time: 1600095446.3032715
+all projects: (93, 3)
+['Dropbox' 'Test' 'JavaScript']
+['ACM' 'Test' 'JavaScript']
+['ScienceDirect' 'Test' 'JavaScript']
+['Local' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\local done in 3.336270650227865e-05min.
+['Hypothesis' 'Test' 'JavaScript']
+['Remote' 'Test' 'JavaScript']
+['HTML' 'Test' 'JavaScript']
+['URL' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\url done in 0.00023335615793863932min.
+['URN' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\remote done in 0.0013665596644083658min.
+['AnnotationServer' 'Test' 'JavaScript']
+['Source' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\source done in 3.3346811930338543e-05min.
+['Selector' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\html done in 0.000899962584177653min.
+['TXT' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\dropbox done in 0.002383248011271159min.
+['Springer' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\txt done in 0.0010165969530741374min.
+['Format' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\format done in 1.6701221466064452e-05min.
+['Classifying' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\acm done in 0.0033498207728068032min.
+['AutoOpen' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\autoopen done in 1.6570091247558594e-05min.
+['MoodleResource' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sciencedirect done in 0.0035999496777852375min.
+['Hosting' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\urn done in 0.0021499872207641603min.
+['DOI' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\springer done in 0.004258708159128825min.
+['IEEE' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\ieee done in 3.33865483601888e-05min.
+['Autocomplete' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\selector done in 0.005175387859344483min.
+['Target' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\target done in 3.331104914347331e-05min.
+['Replying' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\doi done in 0.004041937987009684min.
+['AnnotationPurpose' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotationpurpose done in 1.6681353251139323e-05min.
+['Create' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\classifying done in 0.005592087904612224min.
+['SentimentAnalysis' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\create done in 0.0026833693186442058min.
+['UserFilter' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sentimentanalysis done in 0.0017833272616068522min.
+['SuggestedLiterature' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\autocomplete done in 0.004016725222269694min.
+['PreviousAssignments' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodleresource done in 0.00942544937133789min.
+['Filter' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\hosting done in 0.00934207836786906min.
+['BrowserStorage' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\filter done in 0.00016667445500691733min.
+['LastAnnotation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\lastannotation done in 0.0010333061218261719min.
+['SidebarNavigation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\replying done in 0.00756673018137614min.
+['Categorize' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\userfilter done in 0.005466747283935547min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\suggestedliterature done in 0.005333415667215983min.
+['Canvas' 'Test' 'JavaScript']
+['Situated' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\situated done in 3.327528635660807e-05min.
+['IRR' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\irr done in 3.3342838287353514e-05min.
+['GoogleSheetConsumer' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\categorize done in 0.0015840331713358562min.
+['Assessing' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\canvas done in 0.0010840336481730143min.
+['Navigation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\navigation done in 3.336270650227865e-05min.
+['Highlighting' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\highlighting done in 3.3231576283772785e-05min.
+['MindMeisterConsumer' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\mindmeisterconsumer done in 3.335873285929362e-05min.
+['MoodleReport' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\hypothesis done in 0.017475974559783936min.
+['Neo4J' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotationserver done in 0.016009469827016194min.
+['PDF' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\assessing done in 0.0015000343322753907min.
+['MoodleConsumer' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\previousassignments done in 0.0071506420771280926min.
+['Commenting' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\pdf done in 0.0009833216667175294min.
+['Unsituated' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\unsituated done in 3.331502278645833e-05min.
+['Read' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\read done in 3.333091735839844e-05min.
+['DeleteAll' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodleconsumer done in 0.002133341630299886min.
+['Outsourced' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\outsourced done in 1.6506512959798177e-05min.
+['AnnotationList' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\commenting done in 0.0028667489687601725min.
+['Delete' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotationlist done in 0.0008333762486775716min.
+['ImportAnnotations' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\browserstorage done in 0.007834124565124511min.
+['JSON' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\neo4j done in 0.0038333892822265624min.
+['ImportExport' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\importexport done in 1.6701221466064452e-05min.
+['RenameCodebook' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sidebarnavigation done in 0.007667537530263265min.
+['CodebookDelete' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\deleteall done in 0.003450016180674235min.
+['MoodleResourceBased' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodleresourcebased done in 0.00020015239715576172min.
+['CodebookRead' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodlereport done in 0.005249937375386556min.
+['MoodleComment' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookread done in 3.321568171183268e-05min.
+['BuiltIn' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\json done in 0.0021499474843343098min.
+['TextSummary' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\delete done in 0.0025333444277445476min.
+['Update' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodlecomment done in 0.001116760571797689min.
+['GoogleSheetProvider' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\textsummary done in 0.0009833335876464843min.
+['Export' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\export done in 0.0007000446319580078min.
+['CodebookOutsourced' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookoutsourced done in 1.6645590464274088e-05min.
+['CodebookCreate' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookcreate done in 1.6617774963378907e-05min.
+['CodebookOperation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookoperation done in 3.3406416575113934e-05min.
+['Multivalued' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\update done in 0.002100042502085368min.
+['AnnotationOperation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotationoperation done in 1.6621748606363933e-05min.
+['Alphabetical' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\importannotations done in 0.0046999454498291016min.
+['AnnotatedPDF' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\alphabetical done in 0.0007500211397806803min.
+['Date' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\date done in 0.00033334493637084963min.
+['Number' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\number done in 0.00048332611719767253min.
+['Order' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\order done in 3.337860107421875e-05min.
+['Sidebar' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\sidebar done in 3.3291180928548175e-05min.
+['Interface' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\interface done in 3.3406416575113934e-05min.
+['Presentation' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\presentation done in 3.327528635660807e-05min.
+['ExportCodebook' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotatedpdf done in 0.005592918395996094min.
+['AnnotatedResource' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\annotatedresource done in 3.343423207600911e-05min.
+['CodebookImportExport' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookimportexport done in 3.329912821451823e-05min.
+['Codebook' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\renamecodebook done in 0.009842912356058756min.
+['CodebookUpdate' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookdelete done in 0.010592897733052572min.
+['Manual' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\googlesheetconsumer done in 0.01960235834121704min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\multivalued done in 0.011134998003641764min.
+['Hierarchy' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\exportcodebook done in 0.012919052441914877min.
+['ImportCodebook' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebook done in 0.009142816066741943min.
+['WebAnnotationClient' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\webannotationclient done in 0.00021667877833048504min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\builtin done in 0.01845230261484782min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\importcodebook done in 0.006884253025054932min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\manual done in 0.017544873555501304min.
+['ApplicationBased' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\googlesheetprovider done in 0.02873828411102295min.
+['MoodleProvider' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebookupdate done in 0.02376290559768677min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\hierarchy done in 0.020804230372111min.
+['CodebookTypology' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\codebooktypology done in 3.337462743123372e-05min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\applicationbased done in 0.007851529121398925min.
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\moodleprovider done in 0.02902641296386719min.
+['MindMeisterProvider' 'Test' 'JavaScript']
+***Processing project:C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/showcases_data\mindmeisterprovider done in 1.6669432322184246e-05min.
+Main process Done..........................
