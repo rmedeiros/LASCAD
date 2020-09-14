@@ -199,7 +199,7 @@ def run_LDA(projects_data, projects_names, test, n_topics, min_df, max_df,
 def run_LDA_showcases():
 
     n_features = 50000  # const
-    n_top_words = 50 # const
+    n_top_words = 30 # const
 
     test = config_files['dataset_showcase_noStem2']
     # test = config_files['dataset_showcases'] # 'showcase1'

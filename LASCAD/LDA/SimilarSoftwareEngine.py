@@ -5,7 +5,7 @@
     TODO: find similar software using source code that is not
     in the existing pool
 """
-
+import multiprocessing
 
 from LASCAD.LDA.Clustering import Clustering
 import pandas as pd
@@ -13,14 +13,13 @@ import numpy as np
 from scipy.spatial.distance import cosine
 from heapq import heappop, heappush
 from scipy.stats import entropy
-import multiprocessing
 import os
 from ast import literal_eval as make_tuple
 
 
 class SimilarSoftwareEngine:
 
-    def __init__(self, NUM_TOPICS=50, max_df=0.5, min_df=0.1, n_clusters=20, maxTopSimilar=100,
+    def __init__(self, NUM_TOPICS=50, max_df=0.5, min_df=0.1, n_clusters=20, maxTopSimilar=92,
                                  dataset='showcase1', verbose=True, normalize=True, loadSaved=False):
 
         self.clustering = Clustering(NUM_TOPICS, max_df, min_df, dataset, verbose, normalize)
