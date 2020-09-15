@@ -34,7 +34,7 @@ from nltk.stem import PorterStemmer
 
 from LASCAD.config.languageConst import *
 
-base_dir = 'C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/'
+base_dir = '/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/'
 
 
 def load_config(config_file):
@@ -257,10 +257,10 @@ def file_preprocessing(input_file, output_file):
             # convert camel case into space separated
             # convert snake case into space separated
             # remove language keywords
-            custom_stopwords = ["pvscl", "ifcond", "eval", "ENDCOND","PVSCL", "IFCOND", "EVAL", "ENDCOND"]
+            custom_stopwords = ["ENDCOND","PVSCL", "IFCOND", "EVAL", "ENDCOND", "ELSECOND", "ELSEIFCOND", "WINDOW", "FUNCTION", "CALLBACK", "ABWA", "ERROR", "TODO", "RESOLVE", "DOCUMENT", "CLASS", "LINE", "ELEMENT", "UTILS", "NEW", "IS", "EMPTY"]
             line_witout_puncs = ' '.join([snake_to_spaces(camel_to_spaces(word))
                                           for word in line.translate(replace_punctuation).split()
-                                          if len(word) >=4 and word not in stopwords.words('english') and word not in custom_stopwords
+                                          if len(word) >=4 and word not in stopwords.words('english') and word.upper() not in (name.upper() for name in custom_stopwords)
                                           and word not in all_keywords])
 
 
