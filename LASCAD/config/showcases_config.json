@@ -1,11 +1,374 @@
 {
-
-  "featurecloud": {
-    "language": "Java",
-    "group": "Visualization"
-  },
-  "generator-jhipster": {
+  "Dropbox": {
     "language": "JavaScript",
-    "group": "Web Framework"
+    "group": "Test"
+  },
+  "Springer": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "IEEE": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "ACM": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "AutoOpen": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "MoodleResource": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "ScienceDirect": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Hosting": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "BrowserStorage": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Local": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Hypothesis": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Neo4J": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Remote": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "AnnotationServer": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "PDF": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "HTML": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "TXT": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Format": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "URL": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "URN": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "DOI": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Source": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Selector": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Target": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Classifying": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "SentimentAnalysis": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "SuggestedLiterature": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Autocomplete": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "PreviousAssignments": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Commenting": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Replying": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Categorize": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Assessing": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "AnnotationPurpose": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Create": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "UserFilter": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Filter": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "LastAnnotation": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "SidebarNavigation": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Canvas": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Navigation": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Highlighting": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Situated": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "IRR": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "GoogleSheetConsumer": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "MindMeisterConsumer": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "MoodleReport": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "MoodleComment": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "MoodleConsumer": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Outsourced": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "AnnotationList": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Unsituated": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Read": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "DeleteAll": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Delete": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Update": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "AnnotationOperation": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "ImportAnnotations": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "AnnotatedPDF": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "AnnotatedResource": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "JSON": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "TextSummary": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Export": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "ImportExport": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "RenameCodebook": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "CodebookUpdate": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "CodebookDelete": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Manual": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "ApplicationBased": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "MoodleResourceBased": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "CodebookRead": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "BuiltIn": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "GoogleSheetProvider": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "MoodleProvider": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "MindMeisterProvider": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "CodebookOutsourced": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "CodebookCreate": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "CodebookOperation": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Multivalued": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Hierarchy": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "CodebookTypology": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Alphabetical": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Date": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Number": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Order": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Sidebar": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Interface": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Presentation": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "ExportCodebook": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "ImportCodebook": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "CodebookImportExport": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "Codebook": {
+    "language": "JavaScript",
+    "group": "Test"
+  },
+  "WebAnnotationClient": {
+    "language": "JavaScript",
+    "group": "Test"
   }
 }

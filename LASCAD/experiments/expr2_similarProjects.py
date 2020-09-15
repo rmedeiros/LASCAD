@@ -285,16 +285,17 @@ def calc_manualEvaluationFile(filename):
 # It will take long time to run for the first time.
 
 ### paper results for the manual evaluation of the 38 similar apps experiment
-calc_manualEvaluationFile('../results/similarApps/test_queries_largeDataset_0.02_Ayat_manualEval.csv')
+#calc_manualEvaluationFile('../results/similarApps/test_queries_largeDataset_0.02_Ayat_manualEval.csv')
 
 ## showcases data
-print_accuracy(NUM_TOPICS=50, max_df=0.7, min_df=0.1, n_clusters=20, dataset='showcase_noStem2', loadSaved=True)
+if __name__ == '__main__':
+    print_accuracy(NUM_TOPICS=50, max_df=0.8, min_df=0.2, n_clusters=20, dataset='showcase_noStem2', loadSaved=False)
 
 ### Large dataset lower bound test
-print_accuracy(NUM_TOPICS=50, max_df=0.5, min_df=0.05, n_clusters=20, dataset='largeDataset', loadSaved=True)
+#print_accuracy(NUM_TOPICS=50, max_df=0.5, min_df=0.05, n_clusters=20, dataset='largeDataset', loadSaved=True)
 
 # Text search experiment
-print_accuracy_text_search(NUM_TOPICS=50, max_df=0.5, min_df=0.02, n_clusters=20, dataset='largeDataset', loadSaved=True)
+#print_accuracy_text_search(NUM_TOPICS=50, max_df=0.5, min_df=0.02, n_clusters=20, dataset='largeDataset', loadSaved=True)
 
 
 
