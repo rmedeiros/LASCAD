@@ -109,3 +109,5 @@ similarApps_*
 
 .DS_Store
 .log
+
+venv*
