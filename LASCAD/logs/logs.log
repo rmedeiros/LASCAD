@@ -2859,3 +2859,949 @@ all projects: (64, 3)
 ['ImportAnnotations' 'Test' 'JavaScript']
 ***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/importannotations done in 0.0006870031356811523min.
 Main process Done..........................
+Start time: 1600242188.8726301
+all projects: (10, 3)
+['CodeBook' 'Test' 'JavaScript']
+['CodebookDelete' 'Test' 'JavaScript']
+['Commenting' 'Test' 'JavaScript']
+['Create' 'Test' 'JavaScript']
+['Delete' 'Test' 'JavaScript']
+['DeleteAll' 'Test' 'JavaScript']
+['RenameCodebook' 'Test' 'JavaScript']
+['ImportAnnotations' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/create done in 0.00045456886291503904min.
+['ImportCodebook' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/delete done in 0.00046801169713338217min.
+['PreviousAssignments' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/commenting done in 0.0004941662152608236min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/deleteall done in 0.0005730350812276204min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/importannotations done in 0.0008008321126302083min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/codebook done in 0.0013613303502400715min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/renamecodebook done in 0.001378782590230306min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/previousassignments done in 0.0009892543156941732min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/codebookdelete done in 0.001502847671508789min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/importcodebook done in 0.0014555017153422038min.
+Main process Done..........................
+Start time: 1600242327.204159
+all projects: (10, 3)
+['CodeBook' 'Test' 'JavaScript']
+['CodebookDelete' 'Test' 'JavaScript']
+['Commenting' 'Test' 'JavaScript']
+['Create' 'Test' 'JavaScript']
+['Delete' 'Test' 'JavaScript']
+['DeleteAll' 'Test' 'JavaScript']
+['RenameCodebook' 'Test' 'JavaScript']
+['ImportAnnotations' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/create done in 0.00045926570892333983min.
+['ImportCodebook' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/delete done in 0.0004685481389363607min.
+['PreviousAssignments' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/commenting done in 0.0004906813303629557min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/deleteall done in 0.000579531987508138min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/importannotations done in 0.0008225798606872559min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/codebook done in 0.0014877796173095703min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/renamecodebook done in 0.0014943480491638184min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/previousassignments done in 0.0011364539464314778min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/codebookdelete done in 0.0016297459602355956min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/importcodebook done in 0.001594698429107666min.
+Main process Done..........................
+Start time: 1600243482.653176
+all projects: (63, 3)
+['Delete' 'Test' 'JavaScript']
+['TextSummary' 'Test' 'JavaScript']
+['LastAnnotation' 'Test' 'JavaScript']
+['Assessing' 'Test' 'JavaScript']
+['Update' 'Test' 'JavaScript']
+['AnnotationServer' 'Test' 'JavaScript']
+['MoodleReport' 'Test' 'JavaScript']
+['Selector' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/assessing done in 0.0002875844637552897min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/lastannotation done in 0.0002904653549194336min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/textsummary done in 0.0002917806307474772min.
+['HTML' 'Test' 'JavaScript']
+['Manual' 'Test' 'JavaScript']
+['MoodleConsumer' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/update done in 0.0004371523857116699min.
+['Hypothesis' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/html done in 0.00017189979553222656min.
+['Categorize' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/delete done in 0.0004945834477742513min.
+['ScienceDirect' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/moodleconsumer done in 0.0004497488339742025min.
+['Springer' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/moodlereport done in 0.0010689496994018555min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/categorize done in 0.0006078441937764485min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/selector done in 0.0010668516159057617min.
+['MoodleResource' 'Test' 'JavaScript']
+['ExportCodebook' 'Test' 'JavaScript']
+['DOI' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/sciencedirect done in 0.0009206652641296387min.
+['UserFilter' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/springer done in 0.0009116331736246744min.
+['Canvas' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/canvas done in 0.00017106930414835612min.
+['CodebookDelete' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/doi done in 0.0008399844169616699min.
+['MoodleComment' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/moodlecomment done in 0.00025928417841593424min.
+['SidebarNavigation' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/userfilter done in 0.0011825164159138997min.
+['Commenting' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/moodleresource done in 0.001970187822977702min.
+['MoodleProvider' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/commenting done in 0.0005280653635660808min.
+['Alphabetical' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/alphabetical done in 0.00018039941787719726min.
+['MoodleResourceBased' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/moodleresourcebased done in 5.6803226470947266e-05min.
+['DeleteAll' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/annotationserver done in 0.003389867146809896min.
+['Hierarchy' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/exportcodebook done in 0.002640664577484131min.
+['JSON' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/sidebarnavigation done in 0.0017349521319071453min.
+['URL' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/url done in 4.688103993733724e-05min.
+['URN' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/deleteall done in 0.0008636832237243653min.
+['Remote' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/codebookdelete done in 0.0024728814760843912min.
+['Hosting' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/json done in 0.0005884806315104167min.
+['ApplicationBased' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/hypothesis done in 0.003990268707275391min.
+['TXT' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/urn done in 0.0005197008450826009min.
+['GoogleSheetProvider' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/remote done in 0.00032413403193155924min.
+['Codebook' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/txt done in 0.00022553205490112306min.
+['Autocomplete' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/manual done in 0.005129714806874593min.
+['Number' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/autocomplete done in 0.0007588664690653483min.
+['SentimentAnalysis' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/number done in 6.893078486124675e-05min.
+['AnnotatedPDF' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/sentimentanalysis done in 0.0002879500389099121min.
+['Create' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/hosting done in 0.0018698652585347495min.
+['GoogleSheetConsumer' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/create done in 0.0004944443702697754min.
+['Export' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/codebook done in 0.0016545494397481283min.
+['PDF' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/annotatedpdf done in 0.0008476654688517253min.
+['Dropbox' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/export done in 0.0001287698745727539min.
+['BrowserStorage' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/pdf done in 0.00019413232803344727min.
+['WebAnnotationClient' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/webannotationclient done in 7.521708806355795e-05min.
+['Classifying' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/dropbox done in 0.0005175352096557617min.
+['BuiltIn' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/classifying done in 0.0010622859001159668min.
+['Replying' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/browserstorage done in 0.0013861497243245443min.
+['Date' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/applicationbased done in 0.0035028656323750815min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/date done in 7.873376210530599e-05min.
+['Neo4J' 'Test' 'JavaScript']
+['AnnotationList' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/annotationlist done in 0.00017404953638712565min.
+['SuggestedLiterature' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/neo4j done in 0.0006859660148620606min.
+['RenameCodebook' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/replying done in 0.001337714989980062min.
+['ACM' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/acm done in 3.2822291056315106e-06min.
+['ImportCodebook' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/suggestedliterature done in 0.0009839018185933432min.
+['Multivalued' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/googlesheetconsumer done in 0.003325351079305013min.
+['CodebookUpdate' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/renamecodebook done in 0.0014852523803710938min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/builtin done in 0.0032112995783487954min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/hierarchy done in 0.006811018784840902min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/multivalued done in 0.0016478498776753743min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/importcodebook done in 0.001766836643218994min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/googlesheetprovider done in 0.0063594341278076175min.
+['PreviousAssignments' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/previousassignments done in 0.0010214527448018393min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/codebookupdate done in 0.005156501134236654min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/moodleprovider done in 0.014421236515045167min.
+['ImportAnnotations' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/importannotations done in 0.0006640831629435222min.
+Main process Done..........................
+Start time: 1600251085.524129
+all projects: (63, 3)
+['Delete' 'Test' 'JavaScript']
+['LastAnnotation' 'Test' 'JavaScript']
+['TextSummary' 'Test' 'JavaScript']
+['Assessing' 'Test' 'JavaScript']
+['AnnotationServer' 'Test' 'JavaScript']
+['Update' 'Test' 'JavaScript']
+['MoodleReport' 'Test' 'JavaScript']
+['Selector' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/textsummary done in 0.0003056804339090983min.
+['MoodleConsumer' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/lastannotation done in 0.000317684809366862min.
+['Manual' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/assessing done in 0.00033658345540364584min.
+['HTML' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/html done in 0.00014537970225016276min.
+['Categorize' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/update done in 0.0004930178324381511min.
+['Hypothesis' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/delete done in 0.0005749305089314779min.
+['ScienceDirect' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/moodleconsumer done in 0.00032571554183959963min.
+['Springer' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/categorize done in 0.0003430326779683431min.
+['ExportCodebook' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/moodlereport done in 0.0011323968569437663min.
+['MoodleResource' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/selector done in 0.0011393308639526367min.
+['DOI' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/sciencedirect done in 0.0009203513463338216min.
+['UserFilter' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/doi done in 0.0009576996167500814min.
+['CodebookDelete' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/springer done in 0.002199383576711019min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/userfilter done in 0.0013547182083129884min.
+['Canvas' 'Test' 'JavaScript']
+['Commenting' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/canvas done in 0.00026800235112508136min.
+['MoodleComment' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/moodlecomment done in 0.00028258164723714193min.
+['SidebarNavigation' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/commenting done in 0.0007420698801676432min.
+['MoodleProvider' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/moodleresource done in 0.0024538358052571614min.
+['Alphabetical' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/exportcodebook done in 0.002940670649210612min.
+['DeleteAll' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/alphabetical done in 0.00020991563796997071min.
+['MoodleResourceBased' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/moodleresourcebased done in 9.308258692423503e-05min.
+['JSON' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/annotationserver done in 0.003994250297546386min.
+['Hierarchy' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/json done in 0.00041913588841756185min.
+['ApplicationBased' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/deleteall done in 0.0006741205851236979min.
+['Remote' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/codebookdelete done in 0.0023947834968566896min.
+['Hosting' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/hypothesis done in 0.004121033350626627min.
+['URL' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/url done in 3.524621327718099e-05min.
+['URN' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/remote done in 0.000244144598642985min.
+['TXT' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/txt done in 0.00016351540883382162min.
+['Autocomplete' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/sidebarnavigation done in 0.0015880982081095377min.
+['GoogleSheetProvider' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/urn done in 0.0003404537836710612min.
+['Codebook' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/manual done in 0.005045199394226074min.
+['Number' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/number done in 7.241566975911459e-05min.
+['AnnotatedPDF' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/autocomplete done in 0.0006137331326802572min.
+['SentimentAnalysis' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/sentimentanalysis done in 0.0002501527468363444min.
+['Create' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/hosting done in 0.0015098214149475097min.
+['GoogleSheetConsumer' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/create done in 0.0004005829493204753min.
+['Export' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/annotatedpdf done in 0.0007551829020182292min.
+['Dropbox' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/export done in 0.00011696815490722657min.
+['BrowserStorage' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/codebook done in 0.001358330249786377min.
+['PDF' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/pdf done in 0.00014660358428955078min.
+['WebAnnotationClient' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/dropbox done in 0.0003811836242675781min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/webannotationclient done in 3.8516521453857425e-05min.
+['BuiltIn' 'Test' 'JavaScript']
+['Classifying' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/applicationbased done in 0.0028496344884236654min.
+['Replying' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/classifying done in 0.0008966843287150065min.
+['Date' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/browserstorage done in 0.001215819517771403min.
+['Neo4J' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/date done in 6.0999393463134764e-05min.
+['AnnotationList' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/annotationlist done in 0.0001438299814860026min.
+['SuggestedLiterature' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/neo4j done in 0.0005954980850219726min.
+['RenameCodebook' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/replying done in 0.0012412349383036296min.
+['ACM' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/acm done in 2.2331873575846355e-06min.
+['ImportCodebook' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/suggestedliterature done in 0.0008684396743774414min.
+['Multivalued' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/googlesheetconsumer done in 0.002823483943939209min.
+['CodebookUpdate' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/builtin done in 0.0028144478797912597min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/renamecodebook done in 0.0015088836352030435min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/hierarchy done in 0.005618568261464437min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/importcodebook done in 0.0015481829643249512min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/multivalued done in 0.0015891353289286295min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/googlesheetprovider done in 0.00558161735534668min.
+['PreviousAssignments' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/previousassignments done in 0.0009643634160359701min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/codebookupdate done in 0.005259068806966146min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/moodleprovider done in 0.014739497502644857min.
+['ImportAnnotations' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/importannotations done in 0.0007153153419494629min.
+Main process Done..........................
+Start time: 1600253029.982132
+all projects: (63, 3)
+['Delete' 'Test' 'JavaScript']
+['TextSummary' 'Test' 'JavaScript']
+['LastAnnotation' 'Test' 'JavaScript']
+['Assessing' 'Test' 'JavaScript']
+['Update' 'Test' 'JavaScript']
+['MoodleReport' 'Test' 'JavaScript']
+['AnnotationServer' 'Test' 'JavaScript']
+['Selector' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/textsummary done in 0.00022188425064086914min.
+['MoodleConsumer' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/lastannotation done in 0.0002247174580891927min.
+['Manual' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/assessing done in 0.0002864678700764974min.
+['HTML' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/update done in 0.0004330317179361979min.
+['Hypothesis' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/html done in 0.00016450087229410808min.
+['Categorize' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/delete done in 0.0005482832590738932min.
+['ScienceDirect' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/moodleconsumer done in 0.0003459016482035319min.
+['Springer' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/categorize done in 0.00035124619801839193min.
+['ExportCodebook' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/moodlereport done in 0.00114975372950236min.
+['MoodleResource' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/selector done in 0.0011504173278808593min.
+['DOI' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/sciencedirect done in 0.0008761167526245117min.
+['UserFilter' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/springer done in 0.0010231773058573404min.
+['Canvas' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/canvas done in 0.00024180014928181965min.
+['CodebookDelete' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/doi done in 0.0009646813074747721min.
+['MoodleComment' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/moodlecomment done in 0.00024636586507161457min.
+['SidebarNavigation' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/userfilter done in 0.0011222322781880697min.
+['Commenting' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/moodleresource done in 0.0018483837445576986min.
+['MoodleProvider' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/commenting done in 0.0005224823951721191min.
+['Alphabetical' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/alphabetical done in 0.0001042008399963379min.
+['MoodleResourceBased' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/moodleresourcebased done in 4.7949949900309247e-05min.
+['DeleteAll' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/exportcodebook done in 0.00244518518447876min.
+['JSON' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/annotationserver done in 0.0033624649047851564min.
+['Hierarchy' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/json done in 0.00046216646830240886min.
+['ApplicationBased' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/codebookdelete done in 0.0020523786544799803min.
+['Hosting' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/deleteall done in 0.0007511019706726074min.
+['Remote' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/sidebarnavigation done in 0.0016612490018208823min.
+['URL' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/url done in 2.8181076049804688e-05min.
+['URN' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/hypothesis done in 0.0038108150164286297min.
+['TXT' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/remote done in 0.00031604766845703123min.
+['GoogleSheetProvider' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/txt done in 0.00019659996032714844min.
+['Autocomplete' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/urn done in 0.0004744529724121094min.
+['Codebook' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/manual done in 0.005090447266896566min.
+['Number' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/autocomplete done in 0.0009430805842081706min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/number done in 8.20000966389974e-05min.
+['AnnotatedPDF' 'Test' 'JavaScript']
+['SentimentAnalysis' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/sentimentanalysis done in 0.0003428181012471517min.
+['Create' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/hosting done in 0.002110644181569417min.
+['GoogleSheetConsumer' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/create done in 0.0004947344462076823min.
+['Export' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/annotatedpdf done in 0.0009398659070332845min.
+['Dropbox' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/codebook done in 0.001809978485107422min.
+['PDF' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/export done in 0.00016279617945353191min.
+['BrowserStorage' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/pdf done in 0.0002308805783589681min.
+['WebAnnotationClient' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/webannotationclient done in 3.923177719116211e-05min.
+['Classifying' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/dropbox done in 0.00048728386561075845min.
+['BuiltIn' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/applicationbased done in 0.0037562330563863117min.
+['Replying' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/classifying done in 0.0010981798171997071min.
+['Date' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/date done in 6.93202018737793e-05min.
+['AnnotationList' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/browserstorage done in 0.0015297333399454753min.
+['Neo4J' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/annotationlist done in 0.0001938303311665853min.
+['SuggestedLiterature' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/neo4j done in 0.000634165604909261min.
+['RenameCodebook' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/replying done in 0.001396485169728597min.
+['ACM' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/suggestedliterature done in 0.001027818520863851min.
+['Multivalued' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/acm done in 0.0005933324495951335min.
+['ImportCodebook' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/googlesheetconsumer done in 0.0034963528315226236min.
+['CodebookUpdate' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/renamecodebook done in 0.00172195037206014min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/builtin done in 0.003526898225148519min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/hierarchy done in 0.007041251659393311min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/multivalued done in 0.001737221082051595min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/importcodebook done in 0.0017463326454162597min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/googlesheetprovider done in 0.006944882869720459min.
+['PreviousAssignments' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/previousassignments done in 0.0009848674138387044min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/codebookupdate done in 0.005188167095184326min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/moodleprovider done in 0.014923314253489176min.
+['ImportAnnotations' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/importannotations done in 0.0007197181383768718min.
+Main process Done..........................
+Start time: 1600253260.39391
+all projects: (63, 3)
+['Delete' 'Test' 'JavaScript']
+['TextSummary' 'Test' 'JavaScript']
+['LastAnnotation' 'Test' 'JavaScript']
+['Assessing' 'Test' 'JavaScript']
+['Update' 'Test' 'JavaScript']
+['AnnotationServer' 'Test' 'JavaScript']
+['MoodleReport' 'Test' 'JavaScript']
+['Selector' 'Test' 'JavaScript']
+Error in project ['TextSummary' 'Test' 'JavaScript']
+Error in project ['Delete' 'Test' 'JavaScript']
+Error in project ['LastAnnotation' 'Test' 'JavaScript']
+Error in project ['Assessing' 'Test' 'JavaScript']
+Error in project ['Update' 'Test' 'JavaScript']
+Error in project ['AnnotationServer' 'Test' 'JavaScript']
+None
+None
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/textsummary done in 5.6234995524088543e-05min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/delete done in 5.868673324584961e-05min.
+None
+None
+['MoodleConsumer' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/lastannotation done in 5.671580632527669e-05min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/assessing done in 5.4434935251871744e-05min.
+['ScienceDirect' 'Test' 'JavaScript']
+Error in project ['MoodleReport' 'Test' 'JavaScript']
+['Manual' 'Test' 'JavaScript']
+None
+['HTML' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/update done in 5.588531494140625e-05min.
+None
+['Hypothesis' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/annotationserver done in 5.505084991455078e-05min.
+['Hierarchy' 'Test' 'JavaScript']
+Error in project ['Selector' 'Test' 'JavaScript']
+Error in project ['MoodleConsumer' 'Test' 'JavaScript']
+None
+Error in project ['ScienceDirect' 'Test' 'JavaScript']
+Error in project ['Manual' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/moodlereport done in 5.830128987630208e-05min.
+None
+Error in project ['HTML' 'Test' 'JavaScript']
+['MoodleResource' 'Test' 'JavaScript']
+None
+None
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/moodleconsumer done in 1.4611085255940755e-05min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/sciencedirect done in 1.3283888498942058e-05min.
+None
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/manual done in 1.3764699300130209e-05min.
+Error in project ['Hypothesis' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/html done in 1.2997786204020182e-05min.
+Error in project ['Hierarchy' 'Test' 'JavaScript']
+None
+None
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/selector done in 6.120204925537109e-05min.
+None
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/hypothesis done in 1.388390858968099e-05min.
+['Categorize' 'Test' 'JavaScript']
+['Springer' 'Test' 'JavaScript']
+['DOI' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/hierarchy done in 1.3116995493570963e-05min.
+['UserFilter' 'Test' 'JavaScript']
+['CodebookDelete' 'Test' 'JavaScript']
+['MoodleComment' 'Test' 'JavaScript']
+Error in project ['MoodleResource' 'Test' 'JavaScript']
+None
+['MoodleProvider' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/moodleresource done in 1.5648206075032554e-05min.
+Error in project ['Categorize' 'Test' 'JavaScript']
+Error in project ['Springer' 'Test' 'JavaScript']
+None
+['Alphabetical' 'Test' 'JavaScript']
+None
+Error in project ['UserFilter' 'Test' 'JavaScript']
+Error in project ['CodebookDelete' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/categorize done in 1.3701121012369792e-05min.
+Error in project ['DOI' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/springer done in 1.4015038808186849e-05min.
+Error in project ['MoodleComment' 'Test' 'JavaScript']
+None
+None
+['ExportCodebook' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/userfilter done in 1.4452139536539714e-05min.
+['Canvas' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/codebookdelete done in 1.3315677642822266e-05min.
+None
+None
+Error in project ['MoodleProvider' 'Test' 'JavaScript']
+['Commenting' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/moodlecomment done in 1.3649463653564453e-05min.
+['Hosting' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/doi done in 1.7563501993815105e-05min.
+None
+['SidebarNavigation' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/moodleprovider done in 1.2580553690592448e-05min.
+Error in project ['Alphabetical' 'Test' 'JavaScript']
+['ImportAnnotations' 'Test' 'JavaScript']
+None
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/alphabetical done in 1.0367234547932943e-05min.
+['DeleteAll' 'Test' 'JavaScript']
+['MoodleResourceBased' 'Test' 'JavaScript']
+Error in project ['Canvas' 'Test' 'JavaScript']
+Error in project ['ExportCodebook' 'Test' 'JavaScript']
+None
+Error in project ['Commenting' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/canvas done in 1.2350082397460937e-05min.
+None
+Error in project ['Hosting' 'Test' 'JavaScript']
+Error in project ['ImportAnnotations' 'Test' 'JavaScript']
+None
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/exportcodebook done in 1.4030933380126953e-05min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/commenting done in 1.2532869974772136e-05min.
+Error in project ['SidebarNavigation' 'Test' 'JavaScript']
+None
+['JSON' 'Test' 'JavaScript']
+Error in project ['DeleteAll' 'Test' 'JavaScript']
+None
+Error in project ['MoodleResourceBased' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/importannotations done in 1.0665257771809896e-05min.
+['TXT' 'Test' 'JavaScript']
+['URL' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/hosting done in 1.4698505401611328e-05min.
+None
+None
+None
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/sidebarnavigation done in 1.5020370483398438e-05min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/deleteall done in 1.1698404947916667e-05min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/moodleresourcebased done in 1.1189778645833333e-05min.
+['GoogleSheetProvider' 'Test' 'JavaScript']
+['Remote' 'Test' 'JavaScript']
+['Number' 'Test' 'JavaScript']
+['Codebook' 'Test' 'JavaScript']
+['SentimentAnalysis' 'Test' 'JavaScript']
+Error in project ['JSON' 'Test' 'JavaScript']
+Error in project ['TXT' 'Test' 'JavaScript']
+None
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/json done in 1.6037623087565104e-05min.
+Error in project ['URL' 'Test' 'JavaScript']
+None
+Error in project ['Remote' 'Test' 'JavaScript']
+['ApplicationBased' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/txt done in 1.6534328460693358e-05min.
+Error in project ['Number' 'Test' 'JavaScript']
+Error in project ['SentimentAnalysis' 'Test' 'JavaScript']
+Error in project ['GoogleSheetProvider' 'Test' 'JavaScript']
+['Autocomplete' 'Test' 'JavaScript']
+None
+None
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/url done in 1.9268194834391275e-05min.
+None
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/remote done in 1.585086186726888e-05min.
+None
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/number done in 1.604954401652018e-05min.
+None
+Error in project ['Codebook' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/googlesheetprovider done in 1.7694632212320964e-05min.
+['URN' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/sentimentanalysis done in 1.7130374908447264e-05min.
+['AnnotatedPDF' 'Test' 'JavaScript']
+['Create' 'Test' 'JavaScript']
+None
+['GoogleSheetConsumer' 'Test' 'JavaScript']
+['PreviousAssignments' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/codebook done in 2.0968914031982423e-05min.
+['PDF' 'Test' 'JavaScript']
+Error in project ['ApplicationBased' 'Test' 'JavaScript']
+Error in project ['Autocomplete' 'Test' 'JavaScript']
+None
+Error in project ['Create' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/applicationbased done in 1.6868114471435547e-05min.
+None
+None
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/autocomplete done in 1.703500747680664e-05min.
+Error in project ['URN' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/create done in 1.1583169301350912e-05min.
+['Export' 'Test' 'JavaScript']
+Error in project ['PDF' 'Test' 'JavaScript']
+Error in project ['GoogleSheetConsumer' 'Test' 'JavaScript']
+Error in project ['PreviousAssignments' 'Test' 'JavaScript']
+Error in project ['AnnotatedPDF' 'Test' 'JavaScript']
+None
+['Dropbox' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/urn done in 1.685619354248047e-05min.
+['WebAnnotationClient' 'Test' 'JavaScript']
+None
+None
+None
+None
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/annotatedpdf done in 1.7984708150227865e-05min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/pdf done in 1.3343493143717448e-05min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/googlesheetconsumer done in 1.5866756439208984e-05min.
+['Replying' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/previousassignments done in 1.6085306803385417e-05min.
+['CodebookUpdate' 'Test' 'JavaScript']
+['Date' 'Test' 'JavaScript']
+['Neo4J' 'Test' 'JavaScript']
+['SuggestedLiterature' 'Test' 'JavaScript']
+Error in project ['Export' 'Test' 'JavaScript']
+None
+Error in project ['Dropbox' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/export done in 1.451571782430013e-05min.
+['BrowserStorage' 'Test' 'JavaScript']
+None
+Error in project ['WebAnnotationClient' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/dropbox done in 1.6450881958007812e-05min.
+['BuiltIn' 'Test' 'JavaScript']
+Error in project ['Replying' 'Test' 'JavaScript']
+None
+Error in project ['CodebookUpdate' 'Test' 'JavaScript']
+Error in project ['Date' 'Test' 'JavaScript']
+Error in project ['Neo4J' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/webannotationclient done in 1.983642578125e-05min.
+None
+None
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/replying done in 1.996755599975586e-05min.
+None
+['Classifying' 'Test' 'JavaScript']
+None
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/codebookupdate done in 1.918474833170573e-05min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/date done in 1.8966197967529296e-05min.
+['ACM' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/neo4j done in 1.9216537475585936e-05min.
+Error in project ['SuggestedLiterature' 'Test' 'JavaScript']
+Error in project ['BrowserStorage' 'Test' 'JavaScript']
+['AnnotationList' 'Test' 'JavaScript']
+['RenameCodebook' 'Test' 'JavaScript']
+['ImportCodebook' 'Test' 'JavaScript']
+None
+None
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/suggestedliterature done in 2.3245811462402344e-05min.
+Error in project ['BuiltIn' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/browserstorage done in 1.6466776529947916e-05min.
+['Multivalued' 'Test' 'JavaScript']
+None
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/builtin done in 1.6585985819498697e-05min.
+Error in project ['AnnotationList' 'Test' 'JavaScript']
+Error in project ['ACM' 'Test' 'JavaScript']
+Error in project ['Classifying' 'Test' 'JavaScript']
+Error in project ['RenameCodebook' 'Test' 'JavaScript']
+Error in project ['ImportCodebook' 'Test' 'JavaScript']
+None
+None
+None
+None
+Error in project ['Multivalued' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/acm done in 1.9963582356770834e-05min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/renamecodebook done in 1.8135706583658853e-05min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/classifying done in 2.274910608927409e-05min.
+None
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/annotationlist done in 1.753568649291992e-05min.
+None
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/importcodebook done in 2.14536984761556e-05min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/multivalued done in 1.8397967020670574e-05min.
+Main process Done..........................
+Start time: 1600253490.242507
+all projects: (63, 3)
+['Delete' 'Test' 'JavaScript']
+['TextSummary' 'Test' 'JavaScript']
+['LastAnnotation' 'Test' 'JavaScript']
+['Assessing' 'Test' 'JavaScript']
+['AnnotationServer' 'Test' 'JavaScript']
+['Update' 'Test' 'JavaScript']
+['MoodleReport' 'Test' 'JavaScript']
+['Selector' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/textsummary done in 0.00022843281428019206min.
+['MoodleConsumer' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/lastannotation done in 0.00025629599889119467min.
+['Manual' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/assessing done in 0.00028149684270222983min.
+['HTML' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/html done in 0.000161131223042806min.
+['Categorize' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/update done in 0.0004521489143371582min.
+['Hypothesis' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/delete done in 0.0005450844764709473min.
+['ScienceDirect' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/moodleconsumer done in 0.0004194498062133789min.
+['Springer' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/categorize done in 0.00035723845163981117min.
+['ExportCodebook' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/selector done in 0.0011758963267008463min.
+['DOI' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/moodlereport done in 0.0011831164360046388min.
+['MoodleResource' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/sciencedirect done in 0.0009186188379923503min.
+['UserFilter' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/springer done in 0.0009527325630187989min.
+['Canvas' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/canvas done in 0.00024311939875284831min.
+['CodebookDelete' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/doi done in 0.00095901886622111min.
+['MoodleComment' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/moodlecomment done in 0.0002619187037150065min.
+['SidebarNavigation' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/userfilter done in 0.0011818369229634603min.
+['Commenting' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/commenting done in 0.0006052295366923015min.
+['MoodleProvider' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/moodleresource done in 0.002193899949391683min.
+['Alphabetical' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/alphabetical done in 0.00012489954630533854min.
+['MoodleResourceBased' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/exportcodebook done in 0.002749315897623698min.
+['DeleteAll' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/moodleresourcebased done in 5.3481260935465494e-05min.
+['JSON' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/annotationserver done in 0.003652481238047282min.
+['Hierarchy' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/sidebarnavigation done in 0.0015610496203104654min.
+['URL' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/codebookdelete done in 0.0021454493204752603min.
+['Hosting' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/url done in 3.3851464589436846e-05min.
+['URN' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/json done in 0.0005300800005594889min.
+['ApplicationBased' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/hypothesis done in 0.003786186377207438min.
+['TXT' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/deleteall done in 0.0007620533307393392min.
+['Remote' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/txt done in 0.00023145278294881184min.
+['Autocomplete' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/urn done in 0.0004895329475402832min.
+['GoogleSheetProvider' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/remote done in 0.0003551324208577474min.
+['Codebook' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/autocomplete done in 0.0008507013320922851min.
+['Number' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/number done in 0.00010933081309000651min.
+['AnnotatedPDF' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/manual done in 0.005305349826812744min.
+['SentimentAnalysis' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/sentimentanalysis done in 0.0002730369567871094min.
+['Create' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/hosting done in 0.0020622491836547853min.
+['GoogleSheetConsumer' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/annotatedpdf done in 0.0009599725405375162min.
+['Export' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/create done in 0.0005944490432739258min.
+['Dropbox' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/codebook done in 0.0018384853998819988min.
+['PDF' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/export done in 0.0001385172208150228min.
+['BrowserStorage' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/pdf done in 0.00022861560185750325min.
+['WebAnnotationClient' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/webannotationclient done in 5.1132837931315105e-05min.
+['Classifying' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/dropbox done in 0.0006072640419006348min.
+['BuiltIn' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/classifying done in 0.0009800195693969727min.
+['Replying' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/applicationbased done in 0.0037279486656188964min.
+['Date' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/date done in 5.695025126139323e-05min.
+['AnnotationList' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/browserstorage done in 0.0014171163241068522min.
+['Neo4J' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/annotationlist done in 0.00017495155334472655min.
+['SuggestedLiterature' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/neo4j done in 0.00066680113474528min.
+['RenameCodebook' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/suggestedliterature done in 0.000936885674794515min.
+['Multivalued' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/replying done in 0.0013084530830383301min.
+['ACM' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/googlesheetconsumer done in 0.003155346711476644min.
+['CodebookUpdate' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/acm done in 0.0006778160730997721min.
+['ImportCodebook' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/builtin done in 0.0032308379809061686min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/renamecodebook done in 0.001645350456237793min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/hierarchy done in 0.006971816221872966min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/multivalued done in 0.0016710996627807618min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/googlesheetprovider done in 0.006645317872365316min.
+['PreviousAssignments' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/importcodebook done in 0.001594416300455729min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/previousassignments done in 0.0009809494018554687min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/codebookupdate done in 0.005666045347849528min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/moodleprovider done in 0.014253715674082438min.
+['ImportAnnotations' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/importannotations done in 0.0006673494974772135min.
+Main process Done..........................
+Start time: 1600255628.256886
+all projects: (63, 3)
+['Delete' 'Test' 'JavaScript']
+['TextSummary' 'Test' 'JavaScript']
+['LastAnnotation' 'Test' 'JavaScript']
+['Assessing' 'Test' 'JavaScript']
+['Update' 'Test' 'JavaScript']
+['AnnotationServer' 'Test' 'JavaScript']
+['MoodleReport' 'Test' 'JavaScript']
+['Selector' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/textsummary done in 0.0002079327901204427min.
+['MoodleConsumer' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/lastannotation done in 0.00020853281021118164min.
+['Manual' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/assessing done in 0.0002456943194071452min.
+['HTML' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/html done in 0.00013574759165445964min.
+['Categorize' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/update done in 0.00039261976877848307min.
+['Hypothesis' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/delete done in 0.00046408573786417643min.
+['ScienceDirect' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/moodleconsumer done in 0.00037552913029988605min.
+['Springer' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/categorize done in 0.00037099917729695636min.
+['ExportCodebook' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/selector done in 0.001053778330485026min.
+['DOI' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/moodlereport done in 0.0010651310284932455min.
+['MoodleResource' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/sciencedirect done in 0.0007662018140157064min.
+['UserFilter' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/springer done in 0.0009611010551452637min.
+['Canvas' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/canvas done in 0.0002263188362121582min.
+['CodebookDelete' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/doi done in 0.0009137630462646484min.
+['MoodleComment' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/moodlecomment done in 0.0003038644790649414min.
+['SidebarNavigation' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/userfilter done in 0.0013435999552408853min.
+['Commenting' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/moodleresource done in 0.002032200495402018min.
+['MoodleProvider' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/commenting done in 0.0006727298100789388min.
+['Alphabetical' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/annotationserver done in 0.0034147302309672036min.
+['Hierarchy' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/alphabetical done in 0.00016810099283854168min.
+['MoodleResourceBased' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/moodleresourcebased done in 6.260077158610026e-05min.
+['DeleteAll' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/exportcodebook done in 0.002798032760620117min.
+['JSON' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/sidebarnavigation done in 0.001727151870727539min.
+['URL' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/url done in 4.680156707763672e-05min.
+['URN' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/json done in 0.00057373046875min.
+['ApplicationBased' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/codebookdelete done in 0.0023919383684794107min.
+['Hosting' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/deleteall done in 0.0008530298868815104min.
+['Remote' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/hypothesis done in 0.003998450438181559min.
+['TXT' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/urn done in 0.0005262136459350586min.
+['GoogleSheetProvider' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/txt done in 0.00023709932963053386min.
+['Autocomplete' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/remote done in 0.00034526586532592776min.
+['Codebook' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/autocomplete done in 0.0007426619529724121min.
+['Number' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/number done in 6.62843386332194e-05min.
+['AnnotatedPDF' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/manual done in 0.005292880535125733min.
+['SentimentAnalysis' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/sentimentanalysis done in 0.00034335056940714516min.
+['Create' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/hosting done in 0.0019787351290384927min.
+['GoogleSheetConsumer' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/codebook done in 0.0015810847282409668min.
+['PDF' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/create done in 0.000452884038289388min.
+['Export' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/annotatedpdf done in 0.0009013136227925618min.
+['Dropbox' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/export done in 0.0001790642738342285min.
+['BrowserStorage' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/pdf done in 0.00022983948389689127min.
+['WebAnnotationClient' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/webannotationclient done in 6.0947736104329425e-05min.
+['Classifying' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/dropbox done in 0.0005857547124226888min.
+['BuiltIn' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/classifying done in 0.00101011594136556min.
+['Replying' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/applicationbased done in 0.0034913142522176106min.
+['Date' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/date done in 5.873441696166992e-05min.
+['AnnotationList' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/browserstorage done in 0.0012903332710266114min.
+['Neo4J' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/annotationlist done in 0.00015869935353597005min.
+['SuggestedLiterature' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/neo4j done in 0.0006928801536560059min.
+['RenameCodebook' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/suggestedliterature done in 0.0009667833646138509min.
+['Multivalued' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/replying done in 0.0013350526491800944min.
+['ACM' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/googlesheetconsumer done in 0.003198417027791341min.
+['CodebookUpdate' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/acm done in 0.000692601998647054min.
+['ImportCodebook' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/builtin done in 0.0029544830322265625min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/renamecodebook done in 0.0016544977823893228min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/hierarchy done in 0.006731828053792317min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/multivalued done in 0.0017276326815287271min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/googlesheetprovider done in 0.006373961766560872min.
+['PreviousAssignments' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/importcodebook done in 0.001584919293721517min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/previousassignments done in 0.0009998838106791178min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/codebookupdate done in 0.0055038650830586755min.
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/moodleprovider done in 0.014336033662160238min.
+['ImportAnnotations' 'Test' 'JavaScript']
+***Processing project:/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/showcases_data/importannotations done in 0.0006726304690043132min.
+Main process Done..........................
