@@ -5,19 +5,19 @@ import csv
 import sys
 import os
 
-f1 = file('withoutStpWrd.csv', 'r')
-f2 = file('withStpWrd.csv', 'r')
+f1 = open('withoutStpWrd.csv', 'r')
+f2 = open('withStpWrd.csv', 'r')
 
 c1 = csv.reader(f1, delimiter=',')
 c2 = csv.reader(f2, delimiter=',')
 master_list = list(c2)
-c1.next()
+next(c1, None)
 row_num=1
 changes=0
 pattern = r'\'(.*?)\''
 changes_list={}
 for row in c1:
-    row_changes=
+    row_changes=0
     #Calculates the changes for the Top 5 siblings in the matrix
     for i in range(1, 6):
         #Clean the data and get only the feature name from the cell

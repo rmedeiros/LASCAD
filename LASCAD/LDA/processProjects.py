@@ -34,7 +34,7 @@ from nltk.stem import PorterStemmer
 
 from LASCAD.config.languageConst import *
 
-base_dir = '/Users/RaulMedeiros/Documents/19CustomDiff/LASCAD/LASCAD/'
+base_dir = 'C:/Users/Raul Medeiros/IdeaProjects/LASCAD/LASCAD/'
 
 
 def load_config(config_file):
@@ -245,7 +245,7 @@ def file_preprocessing(input_file, output_file):
     - remove language spesific keywords
     - write the entire project snapshot into one file under project root folder
     """
-    # print("processing file " + input_file)
+    # print("processing file " + input_file)z
     # replace the punctuations with space
     replace_punctuation = str.maketrans(string.punctuation, ' '*len(string.punctuation))
     # stemming
