@@ -1,7 +1,7 @@
 
 import csv
 
-f1 = open('../../similarApps_showcase_noStem2_160_0.8_0.2.csv', 'r')
+f1 = open('../../similarApps_showcase_noStem2_150_0.8_0.2.csv', 'r')
 f2 = open('groundTruth.csv', 'r')
 
 c1 = csv.reader(f1, delimiter=',')
@@ -18,7 +18,7 @@ import re
 for row in c1:
     for feature in master_list:
         if feature[0]==row[0]:
-            for i in range(1,11):
+            for i in range(1,6):
                 row_col= re.search(pattern,row[i]).group(1).replace("\'","")
                 if row_col in [feature[i] for i in range(1,6)]:
                     positives=positives+1
@@ -28,6 +28,7 @@ for row in c1:
             total=total+1
             break
 total_recall = recall/total
+print(total)
 print("The obtained recall is: "+ str(total_recall))
 
 
