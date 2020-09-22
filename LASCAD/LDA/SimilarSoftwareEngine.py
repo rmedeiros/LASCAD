@@ -15,11 +15,12 @@ from heapq import heappop, heappush
 from scipy.stats import entropy
 import os
 from ast import literal_eval as make_tuple
+from scipy.spatial import distance as dst
 
 
 class SimilarSoftwareEngine:
 
-    def __init__(self, NUM_TOPICS=50, max_df=0.5, min_df=0.1, n_clusters=20, maxTopSimilar=63,
+    def __init__(self, NUM_TOPICS=50, max_df=0.5, min_df=0.1, n_clusters=20, maxTopSimilar=60,
                                  dataset='showcase1', verbose=True, normalize=True, loadSaved=False):
 
         self.clustering = Clustering(NUM_TOPICS, max_df, min_df, dataset, verbose, normalize)
@@ -78,8 +79,9 @@ class SimilarSoftwareEngine:
                     v1 = v1.iloc[0]
                 if isinstance(v2, pd.DataFrame):  # if returned multiple
                     v2 = v2.iloc[0]
-                distance = SimilarSoftwareEngine.JSD(v1, v2)
-                # distance = cosine(v1, v2)
+                #distance = SimilarSoftwareEngine.JSD(v1, v2)
+                distance = dst.jensenshannon(v1,v2)
+                #distance = cosine(v1, v2)
                 if np.isclose(distance, 0.0):  # same application with diff names (forks)
                     distance = 1
 

@@ -22,13 +22,11 @@ Canvas,1.0
 UserFilter,1.0
 Commenting,1.0
 CodebookDelete,1.0
-Hosting,1.0
 MoodleComment,1.0
 SidebarNavigation,1.0
 MoodleProvider,1.0
 ImportAnnotations,1.0
 Alphabetical,1.0
-MoodleResourceBased,1.0
 DeleteAll,1.0
 Remote,1.0
 JSON,1.0
@@ -51,7 +49,6 @@ Export,1.0
 BrowserStorage,1.0
 Dropbox,1.0
 BuiltIn,1.0
-WebAnnotationClient,1.0
 Classifying,1.0
 Replying,1.0
 ACM,1.0

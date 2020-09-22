@@ -289,7 +289,7 @@ def calc_manualEvaluationFile(filename):
 
 ## showcases data
 if __name__ == '__main__':
-    print_accuracy(NUM_TOPICS=170, max_df=0.8, min_df=0.2, n_clusters=20, dataset='showcase_noStem2', loadSaved=False)
+    print_accuracy(NUM_TOPICS=50, max_df=0.9, min_df=.05, n_clusters=20, dataset='showcase_noStem2', loadSaved=False)
 
 ### Large dataset lower bound test
 #print_accuracy(NUM_TOPICS=50, max_df=0.5, min_df=0.05, n_clusters=20, dataset='largeDataset', loadSaved=True)

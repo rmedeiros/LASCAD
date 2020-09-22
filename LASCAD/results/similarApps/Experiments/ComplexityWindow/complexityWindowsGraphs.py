@@ -2,7 +2,7 @@ import csv
 
 import matplotlib.pyplot as plt
 
-f1 = open('similarApps_showcase_noStem2_150_0.8_0.2_terms.csv', 'r')
+f1 = open('cosine_showcase_noStem2_50_0.9_0.05.csv', 'r')
 
 c1 = csv.reader(f1, delimiter=',')
 pattern = r'\'(.*?)\''
@@ -26,6 +26,6 @@ for row in c1:
     fig = plt.figure(figsize=(20, 10))
     ax = fig.add_subplot(111)
     ax.plot(x, y, 'bo-', linewidth=2, markersize=6)
-    fig.savefig("figures-terms/"+row[0])
+    fig.savefig("cosine/"+row[0])
     plt.close(fig)
     complexity_window={}
