@@ -388,7 +388,7 @@ class Clustering(object):
     @staticmethod
     def removeBelowThresold(mat, threshold):
         """ remove values below the given threshold """
-        return mat.clip_lower(threshold).replace(threshold, 0)
+        return mat.clip(threshold).replace(threshold, 0)
 
 
     def calculate_accuracy(self, proj_cat, verbose=True):
