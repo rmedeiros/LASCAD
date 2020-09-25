@@ -2,11 +2,12 @@ import matplotlib.pyplot as plt
 import numpy as np
 import csv
 import pprint
-clusters_names=["Cluster"+str(i) for i in range(1,11)]
+clusters_count = 7
+clusters_names=["Cluster"+str(i) for i in range(1,clusters_count+1)]
 clusters = {
-    'browsers': ["Cluster"+str(i) for i in range(1,11)],
-    'clusters_vol': [0 for i in range(1,11)],
-    'color': ['#5A69AF', '#579E65', '#F9C784', '#FC944A', '#F24C00', '#00B825','#ffff00','#ffa200','#ff00ed','#8b4615']
+    'browsers': ["Cluster"+str(i) for i in range(1,clusters_count+1)],
+    'clusters_vol': [0 for i in range(1,clusters_count+1)],
+    'color': ['#5A69AF', '#579E65', '#F9C784', '#FC944A', '#F24C00', '#00B825','#ffff00']#,'#ffa200','#ff00ed','#8b4615']
 }
 clusters_features = {}
 for name in clusters_names:
@@ -145,7 +146,7 @@ class BubbleChart:
             ax.text(*self.bubbles[i, :2], labels[i],
                     horizontalalignment='center', verticalalignment='center')
 
-f1 = open('project_cat_showcase_noStem2_50_0.9_0.05_LASCAD.csv','r')
+f1 = open(str(clusters_count)+'cluster_project_cat_showcase_noStem2_50_0.9_0.05_LASCAD.csv','r')
 
 c1 = csv.reader(f1, delimiter=',')
 pattern = r'\'(.*?)\''
@@ -156,6 +157,8 @@ for row in c1:
         if float(row[i]) != 0.0:
             clusters['clusters_vol'][i-1] = clusters['clusters_vol'][i-1]+1
             clusters_features['Cluster'+str(i)]= clusters_features['Cluster'+str(i)] + ", " + row[0]
+            if len(clusters_features['Cluster'+str(i)]) > 250:
+                clusters_features['Cluster'+str(i)]= clusters_features['Cluster'+str(i)]+ "\n"
 
 
 
@@ -164,7 +167,7 @@ bubble_chart = BubbleChart(area=clusters['clusters_vol'],
 
 bubble_chart.collapse()
 
-fig, ax = plt.subplots(subplot_kw=dict(aspect="equal"),figsize=(20, 10))
+fig, ax = plt.subplots(subplot_kw=dict(aspect="equal"),figsize=(25, 13))
 bubble_chart.plot(
     ax, clusters['browsers'], clusters['color'])
 ax.axis("off")
@@ -173,8 +176,8 @@ ax.autoscale_view()
 pp = pprint.PrettyPrinter(indent=2)
 title=""
 for key, value in clusters_features.items():
+    print(value)
     title= title+ key+ ":" + value +"\n\n"
 ax.set_title(title)
-
 plt.show()
-fig.savefig("clusters")
+fig.savefig(str(clusters_count)+"clusters")

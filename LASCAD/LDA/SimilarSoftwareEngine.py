@@ -20,7 +20,7 @@ from scipy.spatial import distance as dst
 
 class SimilarSoftwareEngine:
 
-    def __init__(self, NUM_TOPICS=50, max_df=0.5, min_df=0.1, n_clusters=20, maxTopSimilar=60,
+    def __init__(self, NUM_TOPICS=50, max_df=0.5, min_df=0.1, n_clusters=20, maxTopSimilar=19,
                                  dataset='showcase1', verbose=True, normalize=True, loadSaved=False):
 
         self.clustering = Clustering(NUM_TOPICS, max_df, min_df, dataset, verbose, normalize)
