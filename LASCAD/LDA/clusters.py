@@ -1,17 +1,28 @@
+import csv
+import os
+import pprint
+from pathlib import Path
+import re
 import matplotlib.pyplot as plt
 import numpy as np
-import csv
-import pprint
+import networkx as nx
+import operator
+from LASCAD.LDA.processProjects import run_preprocessing_categories
+from LASCAD.LDA.runLDA import run_LDA_showcases
+from LASCAD.experiments.expr2_similarProjects import print_accuracy
+import math
 clusters_count = 7
-clusters_names=["Cluster"+str(i) for i in range(1,clusters_count+1)]
+clusters_names = ["Cluster" + str(i) for i in range(1, clusters_count + 1)]
 clusters = {
-    'browsers': ["Cluster"+str(i) for i in range(1,clusters_count+1)],
-    'clusters_vol': [0 for i in range(1,clusters_count+1)],
-    'color': ['#5A69AF', '#579E65', '#F9C784', '#FC944A', '#F24C00', '#00B825','#ffff00']#,'#ffa200','#ff00ed','#8b4615']
+    'browsers': ["Cluster" + str(i) for i in range(1, clusters_count + 1)],
+    'clusters_vol': [0 for i in range(1, clusters_count + 1)],
+    'color': ['#5A69AF', '#579E65', '#F9C784', '#FC944A', '#F24C00', '#00B825', '#ffff00']
+    # ,'#ffa200','#ff00ed','#8b4615']
 }
 clusters_features = {}
 for name in clusters_names:
-    clusters_features[name]=""
+    clusters_features[name] = ""
+
 
 class BubbleChart:
     def __init__(self, area, bubble_spacing=0):
@@ -146,38 +157,94 @@ class BubbleChart:
             ax.text(*self.bubbles[i, :2], labels[i],
                     horizontalalignment='center', verticalalignment='center')
 
-f1 = open(str(clusters_count)+'cluster_project_cat_showcase_noStem2_50_0.9_0.05_LASCAD.csv','r')
+    def clearProcessedOutput():
+        for elem in Path('../../../../showcases_out/').rglob('*.*'):
+            os.remove(elem)
+
+    def getClusteGraphDiameter(filename):
+        f1 = open(filename,'r')
+
+        c1 = csv.reader(f1, delimiter=',')
+        pattern_feature = r'\'(.*?)\''
+        pattern_value = r'\((.*?)\,'
+        edges = []
+        nodes = set()
+        G = nx.Graph()
+        next(c1,None)
+        for row in c1:
+            nodes.add(row[0])
+            for i in range(1,len(row)-1):
+                col_value = float(re.search(pattern_value,row[i]).group(1))
+                feature = re.search(pattern_feature,row[i]).group(1)
+                if col_value<0.82:
+                    edges.append((row[0],feature,{'weight': 1-col_value}))
+        G.add_nodes_from(nodes)
+        G.add_edges_from(edges)
+        length = dict(nx.all_pairs_dijkstra_path_length(G))
+        list_max = [max(item.items(), key=operator.itemgetter(1))[1] for item in length.values()]
+        diameter = round(max(list_max),3)
+        #return '#585858ff'
+        factor = 5 * round(((diameter*100/3)/5))
+        if (factor*255.0/100.)%1.0<.5:
+            percent_hex = math.floor(factor*255.0/100.0)
+        else:
+            percent_hex = math.ceil(factor*255.0/100.0)
+        if percent_hex ==0:
+           return '#5858580d'
+        return '#585858'+hex(percent_hex).split('x')[-1]
+
+
+
+f1 = open(str(clusters_count) + 'cluster_project_cat_showcase_noStem2_50_0.9_0.05_LASCAD.csv', 'r')
 
 c1 = csv.reader(f1, delimiter=',')
 pattern = r'\'(.*?)\''
 
-next(c1,None)
+cluster_features = {}
+for i in range(1, clusters_count + 1):
+    cluster_features['Cluster' + str(i)] = []
+next(c1, None)
 for row in c1:
-    for i in range(1,len(row)):
+    for i in range(1, len(row)):
         if float(row[i]) != 0.0:
-            clusters['clusters_vol'][i-1] = clusters['clusters_vol'][i-1]+1
-            clusters_features['Cluster'+str(i)]= clusters_features['Cluster'+str(i)] + ", " + row[0]
-            if len(clusters_features['Cluster'+str(i)]) > 250:
-                clusters_features['Cluster'+str(i)]= clusters_features['Cluster'+str(i)]+ "\n"
-
-
+            clusters['clusters_vol'][i - 1] = clusters['clusters_vol'][i - 1] + 1
+            clusters_features['Cluster' + str(i)] = clusters_features['Cluster' + str(i)] + ", " + row[0]
+            cluster_features['Cluster' + str(i)].append(row[0])
+            if len(clusters_features['Cluster' + str(i)]) > 250:
+                clusters_features['Cluster' + str(i)] = clusters_features['Cluster' + str(i)] + "\n"
+for j in range(1, len(cluster_features) + 1):
+    f1 = open("../config/Cluster" + str(j) + ".json", "w")
+    f1.write("{")
+    for element in cluster_features['Cluster' + str(j)]:
+        f1.write('"' + element + '":{"language": "JavaScript","group": "Test" }')
+        if cluster_features['Cluster' + str(j)].index(element) != len(cluster_features['Cluster' + str(j)]) - 1:
+            f1.write(",")
+    f1.write("}")
+    f1.close()
+    run_preprocessing_categories("cluster" + str(j))
+    run_LDA_showcases(dataset="cluster" + str(j))
+    print_accuracy(NUM_TOPICS=50, max_df=0.9, min_df=.05, n_clusters=20, dataset='showcase_noStem2', loadSaved=False,
+                   top_max=len(cluster_features['Cluster' + str(j)]), file_prefix='Cluster' + str(j))
+    clusters['color'][j-1] = BubbleChart.getClusteGraphDiameter('../results/similarApps/Cluster' + str(j)+'showcase_noStem2_50_0.9_0.05.csv')
+    clusters['browsers'][j-1] =clusters['browsers'][j-1] + '- Length:'+ str(clusters['clusters_vol'][j-1])
+    BubbleChart.clearProcessedOutput()
 
 bubble_chart = BubbleChart(area=clusters['clusters_vol'],
                            bubble_spacing=0.1)
 
 bubble_chart.collapse()
 
-fig, ax = plt.subplots(subplot_kw=dict(aspect="equal"),figsize=(25, 13))
+fig, ax = plt.subplots(subplot_kw=dict(aspect="equal"), figsize=(25, 13))
 bubble_chart.plot(
     ax, clusters['browsers'], clusters['color'])
 ax.axis("off")
 ax.relim()
 ax.autoscale_view()
 pp = pprint.PrettyPrinter(indent=2)
-title=""
+title = ""
 for key, value in clusters_features.items():
     print(value)
-    title= title+ key+ ":" + value +"\n\n"
+    title = title + key + ":" + value + "\n\n"
 ax.set_title(title)
 plt.show()
-fig.savefig(str(clusters_count)+"clusters")
+fig.savefig(str(clusters_count) + "clusters")

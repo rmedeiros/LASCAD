@@ -178,12 +178,12 @@ def find_pvale_2smaples_independent(a, b):
 
 
 def print_accuracy(NUM_TOPICS=50, max_df=0.5, min_df=0.2, n_clusters=20,
-                   dataset='showcase_noStem2', loadSaved=False):
+                   dataset='showcase_noStem2', loadSaved=False, top_max=60, file_prefix='similarApps'):
     top = 5
     t0 = time.time()
     engine = SimilarSoftwareEngine(NUM_TOPICS=NUM_TOPICS, max_df=max_df,
                                    min_df=min_df, n_clusters=n_clusters,
-                                   dataset=dataset, loadSaved=loadSaved)
+                                   dataset=dataset, loadSaved=loadSaved,maxTopSimilar=top_max, file_prefix=file_prefix)
     print("done in %0.2f min." % ((time.time() - t0)/60.))
 
 

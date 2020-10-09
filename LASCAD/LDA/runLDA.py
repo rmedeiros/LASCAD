@@ -196,7 +196,7 @@ def run_LDA(projects_data, projects_names, test, n_topics, min_df, max_df,
 
 # ----------------------------------------------------------------------
 
-def run_LDA_showcases():
+def run_LDA_showcases(dataset='showcases'):
 
     n_features = 50000  # const
     n_top_words = 20 # const
@@ -204,7 +204,7 @@ def run_LDA_showcases():
     test = config_files['dataset_showcase_noStem2']
     # test = config_files['dataset_showcases'] # 'showcase1'
 
-    project_details = load_config(os.path.join(base_dir, config_files['showcases_data']))
+    project_details = load_config(os.path.join(base_dir, config_files[dataset+'_data']))
     project_details = pd.DataFrame(project_details).T
     project_details.to_csv(os.path.join(base_dir, 'results', test, config_files['projects_details']))
     projects_names = project_details.index.values
@@ -268,7 +268,7 @@ def run_LDA_showcases_parallel(arg_index):
     # test = config_files['dataset_showcases'] # 'showcase1'
 
 
-    project_details = load_config(os.path.join(base_dir, config_files['showcases_data']))
+    project_details = load_config(os.path.join(base_dir, config_files[datase+'_data']))
     project_details = pd.DataFrame(project_details).T
     project_details.to_csv(os.path.join(base_dir, 'results', test, config_files['projects_details']))
     projects_names = project_details.index.values

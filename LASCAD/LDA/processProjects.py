@@ -25,6 +25,10 @@ import shutil
 import string
 import time
 import traceback
+
+
+
+
 from datetime import datetime
 
 import pandas as pd
@@ -385,7 +389,11 @@ def get_projectsList(dataset):
 
     elif dataset == 'largeDataset':
         projects_list = pd.read_csv(os.path.join(base_dir, config_files[dataset + '_data']))
-
+    else:
+        projects_list = load_config(os.path.join(base_dir, config_files[dataset + '_data']))
+        projects_list = pd.DataFrame(projects_list).T
+        projects_list.reset_index(inplace=True)
+        projects_list.rename(columns={'index': 'name'}, inplace=True)
 
     return projects_list
 

@@ -21,13 +21,13 @@ from scipy.spatial import distance as dst
 class SimilarSoftwareEngine:
 
     def __init__(self, NUM_TOPICS=50, max_df=0.5, min_df=0.1, n_clusters=20, maxTopSimilar=19,
-                                 dataset='showcase1', verbose=True, normalize=True, loadSaved=False):
+                                 dataset='showcase1', verbose=True, normalize=True, loadSaved=False, file_prefix='similarApps'):
 
         self.clustering = Clustering(NUM_TOPICS, max_df, min_df, dataset, verbose, normalize)
         self.projects = self.clustering.proj_topic.index.values
         self.n_clutsers = n_clusters
         self.maxTopSimilar = maxTopSimilar
-        similarAppsFilename = '../results/similarApps/' + 'similarApps_' + self.clustering.suffix + '.csv'
+        similarAppsFilename = '../results/similarApps/' + file_prefix + self.clustering.suffix + '.csv'
 
         if loadSaved:
             self.projectsMap = pd.read_csv(similarAppsFilename)
