@@ -21,6 +21,7 @@ next(c1,None)
 feature_names=[]
 row0=next(c3)
 ground_truth={}
+precisions=[]
 for i in range(0,len(row0)):
     feature_names.append(row0[i])
     ground_truth[row0[i]]={}
@@ -42,6 +43,7 @@ for row in c1:
     i=1
     if all_positives!=0:
         precision = precision+ true_positives/all_positives
+        precisions.append(true_positives/all_positives)
     print(row[0] +":"+ str(true_positives))
     true_positives=0
     all_positives=0
@@ -51,5 +53,7 @@ total_precision = precision/total
 print(total)
 print("The obtained precision is: "+ str(round(total_precision,2)))
 
+plt.boxplot(precisions)
+plt.savefig("precisionAt10.png")
 
 

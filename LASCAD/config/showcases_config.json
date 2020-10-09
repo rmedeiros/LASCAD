@@ -1,11 +1,8 @@
 {
-
-
   "Manual": {
     "language": "JavaScript",
     "group": "Test"
   },
-
   "AnnotationServer": {
     "language": "JavaScript",
     "group": "Test"
@@ -18,12 +15,10 @@
     "language": "JavaScript",
     "group": "Test"
   },
-
   "ExportCodebook": {
     "language": "JavaScript",
     "group": "Test"
   },
-
   "CodebookDelete": {
     "language": "JavaScript",
     "group": "Test"
@@ -32,7 +27,6 @@
     "language": "JavaScript",
     "group": "Test"
   },
-
   "DeleteAll": {
     "language": "JavaScript",
     "group": "Test"
@@ -45,7 +39,6 @@
     "language": "JavaScript",
     "group": "Test"
   },
-
   "Codebook": {
     "language": "JavaScript",
     "group": "Test"
@@ -62,7 +55,7 @@
     "language": "JavaScript",
     "group": "Test"
   },
-  "BuiltIn": {ExportCodebook
+  "BuiltIn": {
     "language": "JavaScript",
     "group": "Test"
   },
@@ -78,7 +71,6 @@
     "language": "JavaScript",
     "group": "Test"
   },
-
   "MultiValued": {
     "language": "JavaScript",
     "group": "Test"
