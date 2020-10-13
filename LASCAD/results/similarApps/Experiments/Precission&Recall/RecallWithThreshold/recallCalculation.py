@@ -15,6 +15,7 @@ pattern = r'\'(.*?)\''
 aggregated_recall=0
 true_positives=0
 total=0
+total_for_precision=0
 recall=0.0
 precision=0.0
 all_positives=0
@@ -34,7 +35,7 @@ feature_recall={}
 for row in c1:
     row_col= re.search(pattern,row[i]).group(1).replace("\'","")
     row_value = re.search(pattern2,row[i]).group(1).replace("\'","")
-    while float(row_value)<0.7:
+    while float(row_value)<0.65:
         if ground_truth[row[0]][row_col]=='1':
             true_positives=true_positives+1
         i=i+1
@@ -46,6 +47,7 @@ for row in c1:
     i=1
     if all_positives!=0:
         precision = precision+ true_positives/all_positives
+        total_for_precision=total_for_precision+1
     #print(row[0] +":"+ str(true_positives))
     feature_recall[row[0]]= int(true_positives)
     true_positives=0
@@ -53,7 +55,7 @@ for row in c1:
     total=total+1
 
 total_recall = recall/total
-total_precision = precision/total
+total_precision = precision/total_for_precision
 print(total)
 print("The obtained recall is: "+ str(round(total_recall,2)))
 print("The obtained precision is: "+ str(round(total_precision,2)))
