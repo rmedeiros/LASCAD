@@ -268,7 +268,7 @@ def file_preprocessing(input_file, output_file):
                                 "MESSAGE", "GROUP", "RETRIEVE", "MANAGER", "LANGUAGE", "CONTENT", "INIT"]
             line_witout_puncs = ' '.join([snake_to_spaces(camel_to_spaces(word))
                                           for word in line.translate(replace_punctuation).split()
-                                          if len(word) >=4 and word not in stopwords.words('english') and word.upper() not in (name.upper() for name in custom_stopwords)
+                                          if len(word) >=4 and word not in stopwords.words('english') #and #word.upper() not in (name.upper() for name in custom_stopwords)
                                           and word not in all_keywords])
 
 

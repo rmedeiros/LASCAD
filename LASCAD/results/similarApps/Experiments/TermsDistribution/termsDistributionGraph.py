@@ -30,7 +30,7 @@ for key, value in terms_dict.items():
 x = [x for x in final_dict.keys()]
 y = [num/total_features*100 for num in final_dict.values()]
 pp = pprint.PrettyPrinter(indent=4)
-pp.pprint(final_dict)
+pp.pprint(final_dict.values())
 print("total : "+str(total_features))
 lists = sorted(zip(*[y, x]),reverse=True)
 y, x = list(zip(*lists))

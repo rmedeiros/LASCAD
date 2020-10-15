@@ -79,8 +79,8 @@ class SimilarSoftwareEngine:
                     v1 = v1.iloc[0]
                 if isinstance(v2, pd.DataFrame):  # if returned multiple
                     v2 = v2.iloc[0]
-                #distance = SimilarSoftwareEngine.JSD(v1, v2)
-                distance = dst.jensenshannon(v1,v2)
+                distance = SimilarSoftwareEngine.JSD(v1, v2)
+                #distance = dst.jensenshannon(v1,v2)
                 #distance = cosine(v1, v2)
                 if np.isclose(distance, 0.0):  # same application with diff names (forks)
                     distance = 1

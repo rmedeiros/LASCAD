@@ -13,12 +13,14 @@ for row in c1:
     for i in range(1,len(row)):
         nodes.add(row[0])
         nodes.add(row[1])
-        edges.append( {"from":row[0], "to":row[1], "weight": row[2] , "label":str(round(float(row[2]),2))})
+        edges.append( {"from":row[0], "to":row[1], "weight": row[2] , "label":str(round(1-float(row[2]),2))})
 
 
 
 nt = Network("2000px", "2000px",directed=False)
-colors= ["#585858" + hex(round((int(node.split('-')[-1])+1)*5*255/100)).split('x')[-1] for node in nodes]
+colors= ["#0000FF" + hex(round((int(node.split('-')[-1])+1)*3.1*255/100)).split('x')[-1] for node in nodes]
+#colors= ["#"+ "%06x" % random.randint(0, 0xFFFFFF) for i in range(0,59)]
+
 nt.add_nodes(nodes=list(nodes), color=colors)
 for edge in edges:
     nt.add_edge(edge['from'], edge['to'], width=float(edge['weight'])*5, label=edge['label'])
@@ -39,10 +41,10 @@ options = '''var options = {
   "physics": {
     "barnesHut": {
       "avoidOverlap": 0.72
-    },
+    },.split("-")[0]
     "minVelocity": 0.75
   }
 }'''
-nt.set_options(options)
-#nt.show_buttons()
+#nt.set_options(options)
+nt.show_buttons()
 nt.show("nx.html")

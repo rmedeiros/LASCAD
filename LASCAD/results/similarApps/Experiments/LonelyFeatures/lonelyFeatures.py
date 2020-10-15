@@ -2,7 +2,7 @@ import csv
 
 import matplotlib.pyplot as plt
 
-f1 = open('../../similarApps_showcase_noStem2_50_0.9_0.05.csv', 'r')
+f1 = open('../Precission&Recall/48percent_showcase_noStem2_50_0.9_0.05.csv', 'r')
 
 c1 = csv.reader(f1, delimiter=',')
 pattern = r'\'(.*?)\''
@@ -37,4 +37,4 @@ ax.plot(x, y3, 'ro-', linewidth=2, markersize=6)
 ax.hlines(y=0.5, xmin=0, xmax=len(x), ls='--')
 plt.xticks(x, rotation='vertical')
 plt.show()
-fig.savefig("Lonely_features-terms")
+fig.savefig("Lonely_features")
